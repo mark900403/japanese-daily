@@ -1,0 +1,173 @@
+{
+ "date": "2026-10-22",
+ "questions": [
+  {
+   "word": "き",
+   "type": "kana",
+   "prompt": "き",
+   "options": [
+    "sa",
+    "ki",
+    "ka",
+    "chi"
+   ],
+   "answer": 1,
+   "example": "きく",
+   "reading": "kiku",
+   "exampleZh": "聽；菊花",
+   "id": "き"
+  },
+  {
+   "word": "う",
+   "type": "romaji",
+   "prompt": "u",
+   "options": [
+    "う",
+    "く",
+    "つ",
+    "え"
+   ],
+   "answer": 0,
+   "note": "う 上面有一點，く 沒有",
+   "example": "うえ",
+   "reading": "ue",
+   "exampleZh": "上面",
+   "id": "う"
+  },
+  {
+   "word": "す",
+   "type": "listen",
+   "prompt": "",
+   "audio": "す",
+   "options": [
+    "そ",
+    "し",
+    "す",
+    "う"
+   ],
+   "answer": 2,
+   "example": "すし",
+   "reading": "sushi",
+   "exampleZh": "壽司",
+   "id": "す"
+  },
+  {
+   "word": "こ",
+   "type": "kana",
+   "prompt": "こ",
+   "options": [
+    "ko",
+    "ku",
+    "so",
+    "o"
+   ],
+   "answer": 0,
+   "example": "ここ",
+   "reading": "koko",
+   "exampleZh": "這裡",
+   "id": "こ"
+  },
+  {
+   "word": "さ",
+   "type": "romaji",
+   "prompt": "sa",
+   "options": [
+    "き",
+    "ち",
+    "さ",
+    "せ"
+   ],
+   "answer": 2,
+   "note": "さ 和 ち 是左右相反的形狀",
+   "example": "さけ",
+   "reading": "sake",
+   "exampleZh": "酒；鮭魚",
+   "id": "さ"
+  },
+  {
+   "word": "あおい",
+   "type": "kana",
+   "prompt": "あおい",
+   "options": [
+    "aoi",
+    "akai",
+    "oishi",
+    "ai"
+   ],
+   "answer": 0,
+   "example": "あおい そら",
+   "reading": "aoi sora",
+   "exampleZh": "藍色的天空",
+   "id": "あおい"
+  },
+  {
+   "word": "かお",
+   "type": "listen",
+   "prompt": "",
+   "audio": "かお",
+   "options": [
+    "かさ",
+    "かお",
+    "あお",
+    "こえ"
+   ],
+   "answer": 1,
+   "example": "かお",
+   "reading": "kao",
+   "exampleZh": "臉",
+   "id": "かお"
+  },
+  {
+   "word": "ち",
+   "type": "kana",
+   "prompt": "ち",
+   "options": [
+    "sa",
+    "ti",
+    "chi",
+    "shi"
+   ],
+   "answer": 2,
+   "note": "新行預習：ち 讀作 chi，和 さ 方向相反",
+   "example": "ちかい",
+   "reading": "chikai",
+   "exampleZh": "近的",
+   "id": "ち"
+  },
+  {
+   "word": "つ",
+   "type": "romaji",
+   "prompt": "tsu",
+   "options": [
+    "う",
+    "し",
+    "つ",
+    "て"
+   ],
+   "answer": 2,
+   "note": "新行預習：つ 讀作 tsu，像一道彎彎的波浪",
+   "example": "つくえ",
+   "reading": "tsukue",
+   "exampleZh": "桌子",
+   "id": "つ"
+  },
+  {
+   "word": "て",
+   "type": "listen",
+   "prompt": "",
+   "audio": "て",
+   "options": [
+    "そ",
+    "て",
+    "と",
+    "た"
+   ],
+   "answer": 1,
+   "note": "新行預習：て 和 そ 長得有點像，注意區分",
+   "example": "て",
+   "reading": "te",
+   "exampleZh": "手",
+   "id": "て"
+  }
+ ]
+}
