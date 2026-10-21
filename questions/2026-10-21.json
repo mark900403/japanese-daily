@@ -1,0 +1,172 @@
+{
+ "date": "2026-10-21",
+ "questions": [
+  {
+   "word": "か",
+   "type": "kana",
+   "prompt": "か",
+   "options": [
+    "ka",
+    "sa",
+    "a",
+    "ki"
+   ],
+   "answer": 0,
+   "example": "かさ",
+   "reading": "kasa",
+   "exampleZh": "雨傘",
+   "id": "か"
+  },
+  {
+   "word": "し",
+   "type": "kana",
+   "prompt": "し",
+   "options": [
+    "si / shi",
+    "chi",
+    "su",
+    "ki"
+   ],
+   "answer": 0,
+   "note": "し 讀作 shi，不是 si",
+   "example": "しお",
+   "reading": "shio",
+   "exampleZh": "鹽",
+   "id": "し"
+  },
+  {
+   "word": "え",
+   "type": "romaji",
+   "prompt": "e",
+   "options": [
+    "お",
+    "え",
+    "う",
+    "け"
+   ],
+   "answer": 1,
+   "example": "えき",
+   "reading": "eki",
+   "exampleZh": "車站",
+   "id": "え"
+  },
+  {
+   "word": "く",
+   "type": "listen",
+   "prompt": "",
+   "audio": "く",
+   "options": [
+    "く",
+    "す",
+    "う",
+    "こ"
+   ],
+   "answer": 0,
+   "example": "くさ",
+   "reading": "kusa",
+   "exampleZh": "草",
+   "id": "く"
+  },
+  {
+   "word": "せ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "せ",
+   "options": [
+    "さ",
+    "け",
+    "せ",
+    "そ"
+   ],
+   "answer": 2,
+   "example": "せかい",
+   "reading": "sekai",
+   "exampleZh": "世界",
+   "id": "せ"
+  },
+  {
+   "word": "そ",
+   "type": "romaji",
+   "prompt": "so",
+   "options": [
+    "そ",
+    "こ",
+    "す",
+    "お"
+   ],
+   "answer": 0,
+   "note": "そ 和 て 長得有點像，注意區分",
+   "example": "そこ",
+   "reading": "soko",
+   "exampleZh": "那裡",
+   "id": "そ"
+  },
+  {
+   "word": "あさ",
+   "type": "kana",
+   "prompt": "あさ",
+   "options": [
+    "asa",
+    "aka",
+    "oka",
+    "isu"
+   ],
+   "answer": 0,
+   "example": "あさ",
+   "reading": "asa",
+   "exampleZh": "早晨",
+   "id": "あさ"
+  },
+  {
+   "word": "いす",
+   "type": "listen",
+   "prompt": "",
+   "audio": "いす",
+   "options": [
+    "いえ",
+    "いす",
+    "うし",
+    "あき"
+   ],
+   "answer": 1,
+   "example": "いす",
+   "reading": "isu",
+   "exampleZh": "椅子",
+   "id": "いす"
+  },
+  {
+   "word": "た",
+   "type": "kana",
+   "prompt": "た（預習 た行）",
+   "options": [
+    "ta",
+    "na",
+    "ka",
+    "sa"
+   ],
+   "answer": 0,
+   "note": "新行預習：た ち つ て と = ta chi tsu te to",
+   "example": "たかい",
+   "reading": "takai",
+   "exampleZh": "高的、貴的",
+   "id": "た"
+  },
+  {
+   "word": "と",
+   "type": "romaji",
+   "prompt": "to（預習 た行）",
+   "options": [
+    "そ",
+    "と",
+    "こ",
+    "て"
+   ],
+   "answer": 1,
+   "note": "と 像一根釘子＋斜線",
+   "example": "とけい",
+   "reading": "tokei",
+   "exampleZh": "時鐘",
+   "id": "と"
+  }
+ ]
+}
