@@ -1,0 +1,171 @@
+{
+ "date": "2026-10-23",
+ "questions": [
+  {
+   "word": "た",
+   "type": "kana",
+   "prompt": "た",
+   "options": [
+    "na",
+    "ta",
+    "ka",
+    "sa"
+   ],
+   "answer": 1,
+   "example": "たかい",
+   "reading": "takai",
+   "exampleZh": "高的；貴的",
+   "note": "た行正式解鎖！た ち つ て と = ta chi tsu te to",
+   "id": "た"
+  },
+  {
+   "word": "と",
+   "type": "listen",
+   "prompt": "",
+   "audio": "と",
+   "options": [
+    "そ",
+    "こ",
+    "と",
+    "て"
+   ],
+   "answer": 2,
+   "example": "とけい",
+   "reading": "tokei",
+   "exampleZh": "時鐘；手錶",
+   "id": "と"
+  },
+  {
+   "word": "て",
+   "type": "romaji",
+   "prompt": "te",
+   "options": [
+    "そ",
+    "て",
+    "ち",
+    "た"
+   ],
+   "answer": 1,
+   "example": "て",
+   "reading": "te",
+   "exampleZh": "手",
+   "note": "て 是一筆寫成，そ 上面有折角",
+   "id": "て"
+  },
+  {
+   "word": "たこ",
+   "type": "kana",
+   "prompt": "たこ",
+   "options": [
+    "tako",
+    "taku",
+    "sako",
+    "tsuko"
+   ],
+   "answer": 0,
+   "example": "たこやき",
+   "reading": "takoyaki",
+   "exampleZh": "章魚燒（たこ＝章魚）",
+   "id": "たこ"
+  },
+  {
+   "word": "け",
+   "type": "kana",
+   "prompt": "け",
+   "options": [
+    "ke",
+    "ki",
+    "ka",
+    "ko"
+   ],
+   "answer": 0,
+   "example": "いけ",
+   "reading": "ike",
+   "exampleZh": "池塘",
+   "id": "け"
+  },
+  {
+   "word": "せ",
+   "type": "romaji",
+   "prompt": "se",
+   "options": [
+    "さ",
+    "せ",
+    "け",
+    "そ"
+   ],
+   "answer": 1,
+   "example": "せかい",
+   "reading": "sekai",
+   "exampleZh": "世界",
+   "id": "せ"
+  },
+  {
+   "word": "お",
+   "type": "listen",
+   "prompt": "",
+   "audio": "お",
+   "options": [
+    "あ",
+    "す",
+    "お",
+    "め"
+   ],
+   "answer": 2,
+   "example": "おか",
+   "reading": "oka",
+   "exampleZh": "山丘",
+   "note": "お 和 あ 很像，お 右上多一點",
+   "id": "お"
+  },
+  {
+   "word": "し",
+   "type": "romaji",
+   "prompt": "shi",
+   "options": [
+    "つ",
+    "し",
+    "く",
+    "ち"
+   ],
+   "answer": 1,
+   "example": "しお",
+   "reading": "shio",
+   "exampleZh": "鹽",
+   "id": "し"
+  },
+  {
+   "word": "すし",
+   "type": "listen",
+   "prompt": "",
+   "audio": "すし",
+   "options": [
+    "すし",
+    "さし",
+    "すせ",
+    "そし"
+   ],
+   "answer": 0,
+   "example": "すし",
+   "reading": "sushi",
+   "exampleZh": "壽司",
+   "id": "すし"
+  },
+  {
+   "word": "あき",
+   "type": "kana",
+   "prompt": "あき",
+   "options": [
+    "aki",
+    "aka",
+    "oki",
+    "asa"
+   ],
+   "answer": 0,
+   "example": "あき",
+   "reading": "aki",
+   "exampleZh": "秋天",
+   "id": "あき"
+  }
+ ]
+}

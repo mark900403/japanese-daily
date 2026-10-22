@@ -1,4 +1,4 @@
-{"learner":"初學者（繁中母語），目標 2027/12 JLPT N3","current_stage":"hiragana","unlocked_kana_rows":["あ","か","さ"],"previewing":["た"],
+{"learner":"初學者（繁中母語），目標 2027/12 JLPT N3","current_stage":"hiragana","unlocked_kana_rows":["あ","か","さ","た"],"previewing":["な"],
 "stages":[
 {"id":"hiragana","name":"平假名","rows":["あ","か","さ","た","な","は","ま","や","ら","わ","濁音・半濁音","拗音"],"types":["kana","romaji","listen"],"pace":"每 3–4 天新增一行，新行最多占 4 題，其餘複習已學行"},
 {"id":"katakana","name":"片假名","rows":["ア","カ","サ","タ","ナ","ハ","マ","ヤ","ラ","ワ","濁音・半濁音","拗音・外來語"],"types":["kana","romaji","listen"],"pace":"每 2–3 天一行，搭配簡單外來語"},
