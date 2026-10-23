@@ -1,0 +1,178 @@
+{
+ "date": "2026-10-24",
+ "questions": [
+  {
+   "word": "つ",
+   "type": "kana",
+   "prompt": "つ",
+   "options": [
+    "su",
+    "tsu",
+    "chi",
+    "tu"
+   ],
+   "answer": 1,
+   "example": "つくえ",
+   "reading": "tsukue",
+   "exampleZh": "桌子",
+   "note": "つ 的羅馬拼音是 tsu，不是 tu；發音像「ㄘ」",
+   "id": "つ"
+  },
+  {
+   "word": "ち",
+   "type": "romaji",
+   "prompt": "chi",
+   "options": [
+    "さ",
+    "ち",
+    "き",
+    "ら"
+   ],
+   "answer": 1,
+   "example": "ちかい",
+   "reading": "chikai",
+   "exampleZh": "近的",
+   "note": "ち 和 さ 很像：ち 的下面是往右彎，さ 是往左收",
+   "id": "ち"
+  },
+  {
+   "word": "そ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "そ",
+   "options": [
+    "そ",
+    "こ",
+    "さ",
+    "す"
+   ],
+   "answer": 0,
+   "example": "そこ",
+   "reading": "soko",
+   "exampleZh": "那裡",
+   "note": "さ行：さ し す せ そ",
+   "id": "そ"
+  },
+  {
+   "word": "き",
+   "type": "kana",
+   "prompt": "き",
+   "options": [
+    "sa",
+    "ki",
+    "chi",
+    "ke"
+   ],
+   "answer": 1,
+   "example": "きく",
+   "reading": "kiku",
+   "exampleZh": "聽；問",
+   "note": "き 比 さ 多一橫",
+   "id": "き"
+  },
+  {
+   "word": "くつ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "くつ",
+   "options": [
+    "くち",
+    "くつ",
+    "かつ",
+    "こつ"
+   ],
+   "answer": 1,
+   "example": "くつ",
+   "reading": "kutsu",
+   "exampleZh": "鞋子",
+   "note": "く(ku)+つ(tsu)",
+   "id": "くつ"
+  },
+  {
+   "word": "とけい",
+   "type": "kana",
+   "prompt": "とけい",
+   "options": [
+    "tokei",
+    "takei",
+    "tokai",
+    "dokei"
+   ],
+   "answer": 0,
+   "example": "とけい",
+   "reading": "tokei",
+   "exampleZh": "時鐘；手錶",
+   "note": "え段後面接い時，通常拉長音：けい 唸成 kē",
+   "id": "とけい"
+  },
+  {
+   "word": "え",
+   "type": "romaji",
+   "prompt": "e",
+   "options": [
+    "お",
+    "え",
+    "う",
+    "あ"
+   ],
+   "answer": 1,
+   "example": "いえ",
+   "reading": "ie",
+   "exampleZh": "家；房子",
+   "note": "あ行：あ い う え お",
+   "id": "え"
+  },
+  {
+   "word": "な",
+   "type": "kana",
+   "prompt": "な",
+   "options": [
+    "ta",
+    "na",
+    "ma",
+    "ha"
+   ],
+   "answer": 1,
+   "example": "なつ",
+   "reading": "natsu",
+   "exampleZh": "夏天",
+   "note": "な行預習！な = na，左邊像「ナ」，右邊像小圈圈",
+   "id": "な"
+  },
+  {
+   "word": "に",
+   "type": "romaji",
+   "prompt": "ni",
+   "options": [
+    "こ",
+    "に",
+    "た",
+    "け"
+   ],
+   "answer": 1,
+   "example": "にく",
+   "reading": "niku",
+   "exampleZh": "肉",
+   "note": "な行預習：に = ni，右邊像「こ」",
+   "id": "に"
+  },
+  {
+   "word": "さかな",
+   "type": "listen",
+   "prompt": "",
+   "audio": "さかな",
+   "options": [
+    "さかな",
+    "さなか",
+    "たかな",
+    "さかね"
+   ],
+   "answer": 0,
+   "example": "さかな",
+   "reading": "sakana",
+   "exampleZh": "魚",
+   "note": "さ(sa)+か(ka)+な(na)，用到預習的 な！",
+   "id": "さかな"
+  }
+ ]
+}
