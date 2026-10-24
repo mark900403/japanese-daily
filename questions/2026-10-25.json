@@ -1,0 +1,178 @@
+{
+ "date": "2026-10-25",
+ "questions": [
+  {
+   "word": "ぬ",
+   "type": "kana",
+   "prompt": "ぬ",
+   "options": [
+    "mu",
+    "nu",
+    "me",
+    "ne"
+   ],
+   "answer": 1,
+   "example": "いぬ",
+   "reading": "inu",
+   "exampleZh": "狗",
+   "note": "ぬ 和 め 很像：ぬ 的尾巴多一個小圈圈",
+   "id": "ぬ"
+  },
+  {
+   "word": "ね",
+   "type": "romaji",
+   "prompt": "ne",
+   "options": [
+    "れ",
+    "わ",
+    "ね",
+    "ぬ"
+   ],
+   "answer": 2,
+   "example": "ねこ",
+   "reading": "neko",
+   "exampleZh": "貓",
+   "note": "ね 的右下角有一個小圈；れ、わ 沒有",
+   "id": "ね"
+  },
+  {
+   "word": "の",
+   "type": "listen",
+   "prompt": "",
+   "audio": "の",
+   "options": [
+    "め",
+    "の",
+    "ぬ",
+    "あ"
+   ],
+   "answer": 1,
+   "example": "きのこ",
+   "reading": "kinoko",
+   "exampleZh": "香菇",
+   "note": "な行：な に ぬ ね の；の 也是常用助詞「的」",
+   "id": "の"
+  },
+  {
+   "word": "いぬ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "いぬ",
+   "options": [
+    "いぬ",
+    "いね",
+    "あぬ",
+    "いの"
+   ],
+   "answer": 0,
+   "example": "いぬ",
+   "reading": "inu",
+   "exampleZh": "狗",
+   "note": "い＋ぬ＝inu（狗）",
+   "id": "いぬ"
+  },
+  {
+   "word": "に",
+   "type": "kana",
+   "prompt": "に",
+   "options": [
+    "ni",
+    "na",
+    "ko",
+    "ta"
+   ],
+   "answer": 0,
+   "example": "にく",
+   "reading": "niku",
+   "exampleZh": "肉",
+   "note": "に 左邊一豎，右邊像「こ」",
+   "id": "に"
+  },
+  {
+   "word": "な",
+   "type": "romaji",
+   "prompt": "na",
+   "options": [
+    "た",
+    "な",
+    "は",
+    "ま"
+   ],
+   "answer": 1,
+   "example": "なつ",
+   "reading": "natsu",
+   "exampleZh": "夏天",
+   "note": "な 和 た 左半邊很像，右邊 な 有個打結的圈",
+   "id": "な"
+  },
+  {
+   "word": "かさ",
+   "type": "kana",
+   "prompt": "かさ",
+   "options": [
+    "kasa",
+    "kata",
+    "sasa",
+    "kaso"
+   ],
+   "answer": 0,
+   "example": "かさ",
+   "reading": "kasa",
+   "exampleZh": "雨傘",
+   "note": "か（ka）＋さ（sa）＝kasa 雨傘",
+   "id": "かさ"
+  },
+  {
+   "word": "た",
+   "type": "listen",
+   "prompt": "",
+   "audio": "た",
+   "options": [
+    "な",
+    "た",
+    "こ",
+    "に"
+   ],
+   "answer": 1,
+   "example": "たいこ",
+   "reading": "taiko",
+   "exampleZh": "太鼓",
+   "note": "た行：た ち つ て と",
+   "id": "た"
+  },
+  {
+   "word": "し",
+   "type": "kana",
+   "prompt": "し",
+   "options": [
+    "tsu",
+    "shi",
+    "si",
+    "chi"
+   ],
+   "answer": 1,
+   "example": "しお",
+   "reading": "shio",
+   "exampleZh": "鹽",
+   "note": "し 的羅馬拼音寫作 shi，發音像「ㄒ一」",
+   "id": "し"
+  },
+  {
+   "word": "け",
+   "type": "romaji",
+   "prompt": "ke",
+   "options": [
+    "は",
+    "け",
+    "に",
+    "き"
+   ],
+   "answer": 1,
+   "example": "いけ",
+   "reading": "ike",
+   "exampleZh": "池塘",
+   "note": "け 和 は、に 很像：け 右邊是一豎長一短橫",
+   "id": "け"
+  }
+ ]
+}
