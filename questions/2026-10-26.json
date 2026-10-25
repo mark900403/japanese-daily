@@ -1,0 +1,178 @@
+{
+ "date": "2026-10-26",
+ "questions": [
+  {
+   "word": "ね",
+   "type": "kana",
+   "prompt": "ね",
+   "options": [
+    "re",
+    "ne",
+    "nu",
+    "wa"
+   ],
+   "answer": 1,
+   "example": "ねこ",
+   "reading": "neko",
+   "exampleZh": "貓",
+   "note": "ね 右下角有個小圈圈，れ 沒有",
+   "id": "ね"
+  },
+  {
+   "word": "ぬ",
+   "type": "romaji",
+   "prompt": "nu",
+   "options": [
+    "め",
+    "ぬ",
+    "ね",
+    "の"
+   ],
+   "answer": 1,
+   "example": "いぬ",
+   "reading": "inu",
+   "exampleZh": "狗",
+   "note": "ぬ 的尾巴有小圈圈；め 沒有",
+   "id": "ぬ"
+  },
+  {
+   "word": "に",
+   "type": "listen",
+   "prompt": "",
+   "audio": "に",
+   "options": [
+    "こ",
+    "た",
+    "に",
+    "い"
+   ],
+   "answer": 2,
+   "example": "にく",
+   "reading": "niku",
+   "exampleZh": "肉",
+   "note": "に 左邊一豎，右邊像 こ",
+   "id": "に"
+  },
+  {
+   "word": "の",
+   "type": "kana",
+   "prompt": "の",
+   "options": [
+    "no",
+    "nu",
+    "na",
+    "o"
+   ],
+   "answer": 0,
+   "example": "あなたの",
+   "reading": "anata no",
+   "exampleZh": "你的",
+   "note": "の 一筆畫完；也是助詞「的」",
+   "id": "の"
+  },
+  {
+   "word": "なつ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "なつ",
+   "options": [
+    "なす",
+    "なつ",
+    "ねつ",
+    "たつ"
+   ],
+   "answer": 1,
+   "example": "なつやすみ",
+   "reading": "natsu yasumi",
+   "exampleZh": "夏天／暑假",
+   "note": "な行＋た行：な・つ",
+   "id": "なつ"
+  },
+  {
+   "word": "おかね",
+   "type": "kana",
+   "prompt": "おかね",
+   "options": [
+    "okane",
+    "okone",
+    "akane",
+    "okani"
+   ],
+   "answer": 0,
+   "example": "おかね",
+   "reading": "okane",
+   "exampleZh": "錢",
+   "note": "お＋かね（金），前面的お是禮貌用法",
+   "id": "おかね"
+  },
+  {
+   "word": "ち",
+   "type": "romaji",
+   "prompt": "chi",
+   "options": [
+    "さ",
+    "ち",
+    "き",
+    "ら"
+   ],
+   "answer": 1,
+   "example": "ちかてつ",
+   "reading": "chikatetsu",
+   "exampleZh": "地鐵",
+   "note": "ち 和 さ 方向相反：ち 的圓弧朝右",
+   "id": "ち"
+  },
+  {
+   "word": "そ",
+   "type": "kana",
+   "prompt": "そ",
+   "options": [
+    "ro",
+    "so",
+    "te",
+    "shi"
+   ],
+   "answer": 1,
+   "example": "そと",
+   "reading": "soto",
+   "exampleZh": "外面",
+   "note": "さ行：さ し す せ そ",
+   "id": "そ"
+  },
+  {
+   "word": "く",
+   "type": "listen",
+   "prompt": "",
+   "audio": "く",
+   "options": [
+    "へ",
+    "し",
+    "く",
+    "つ"
+   ],
+   "answer": 2,
+   "example": "くち",
+   "reading": "kuchi",
+   "exampleZh": "嘴巴",
+   "note": "く 像一個往左的箭頭",
+   "id": "く"
+  },
+  {
+   "word": "え",
+   "type": "romaji",
+   "prompt": "e",
+   "options": [
+    "え",
+    "ん",
+    "う",
+    "そ"
+   ],
+   "answer": 0,
+   "example": "えき",
+   "reading": "eki",
+   "exampleZh": "車站",
+   "note": "え 和 う 上面都有一點，え 下面多一個轉折",
+   "id": "え"
+  }
+ ]
+}
