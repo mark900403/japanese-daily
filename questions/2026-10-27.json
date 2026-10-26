@@ -1,0 +1,178 @@
+{
+ "date": "2026-10-27",
+ "questions": [
+  {
+   "word": "は",
+   "type": "kana",
+   "prompt": "は",
+   "options": [
+    "ha",
+    "ho",
+    "ke",
+    "na"
+   ],
+   "answer": 0,
+   "example": "はな",
+   "reading": "hana",
+   "exampleZh": "花",
+   "note": "は行預習！は = ha；左邊一豎，右邊像「ほ」少一橫（當助詞時唸 wa）",
+   "id": "は"
+  },
+  {
+   "word": "ひ",
+   "type": "romaji",
+   "prompt": "hi",
+   "options": [
+    "ひ",
+    "し",
+    "い",
+    "こ"
+   ],
+   "answer": 0,
+   "example": "ひと",
+   "reading": "hito",
+   "exampleZh": "人",
+   "note": "は行預習：ひ = hi，形狀像一個微笑的嘴",
+   "id": "ひ"
+  },
+  {
+   "word": "はな",
+   "type": "listen",
+   "prompt": "",
+   "audio": "はな",
+   "options": [
+    "はな",
+    "なな",
+    "かな",
+    "はね"
+   ],
+   "answer": 0,
+   "example": "はなし",
+   "reading": "hanashi",
+   "exampleZh": "話／故事",
+   "note": "は(ha)＋な(na)＝花，用到預習的 は！",
+   "id": "はな"
+  },
+  {
+   "word": "せ",
+   "type": "kana",
+   "prompt": "せ",
+   "options": [
+    "sa",
+    "se",
+    "so",
+    "ke"
+   ],
+   "answer": 1,
+   "example": "せかい",
+   "reading": "sekai",
+   "exampleZh": "世界",
+   "note": "さ行：さ し す せ そ；せ 像一個橫放的「せ」字框",
+   "id": "せ"
+  },
+  {
+   "word": "つ",
+   "type": "romaji",
+   "prompt": "tsu",
+   "options": [
+    "し",
+    "つ",
+    "う",
+    "そ"
+   ],
+   "answer": 1,
+   "example": "つくえ",
+   "reading": "tsukue",
+   "exampleZh": "書桌",
+   "note": "つ 寫作 tsu，不是 tu",
+   "id": "つ"
+  },
+  {
+   "word": "ね",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ね",
+   "options": [
+    "れ",
+    "ぬ",
+    "ね",
+    "わ"
+   ],
+   "answer": 2,
+   "example": "あね",
+   "reading": "ane",
+   "exampleZh": "姊姊",
+   "note": "ね 右下角有個小圈圈",
+   "id": "ね"
+  },
+  {
+   "word": "あした",
+   "type": "kana",
+   "prompt": "あした",
+   "options": [
+    "ashita",
+    "asita",
+    "ashida",
+    "ashite"
+   ],
+   "answer": 0,
+   "example": "またあした",
+   "reading": "mata ashita",
+   "exampleZh": "明天見",
+   "note": "し 的羅馬拼音寫作 shi；あ・し・た",
+   "id": "あした"
+  },
+  {
+   "word": "と",
+   "type": "romaji",
+   "prompt": "to",
+   "options": [
+    "と",
+    "こ",
+    "て",
+    "そ"
+   ],
+   "answer": 0,
+   "example": "とけい",
+   "reading": "tokei",
+   "exampleZh": "時鐘",
+   "note": "た行：た ち つ て と",
+   "id": "と"
+  },
+  {
+   "word": "ちかてつ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ちかてつ",
+   "options": [
+    "ちかてつ",
+    "しかてつ",
+    "ちかてす",
+    "ちかけつ"
+   ],
+   "answer": 0,
+   "example": "ちかてつのえき",
+   "reading": "chikatetsu no eki",
+   "exampleZh": "地鐵站",
+   "note": "ち(chi)か(ka)て(te)つ(tsu)＝地下鐵",
+   "id": "ちかてつ"
+  },
+  {
+   "word": "き",
+   "type": "kana",
+   "prompt": "き",
+   "options": [
+    "sa",
+    "ki",
+    "chi",
+    "ke"
+   ],
+   "answer": 1,
+   "example": "きく",
+   "reading": "kiku",
+   "exampleZh": "聽",
+   "note": "き 比 さ 多一橫",
+   "id": "き"
+  }
+ ]
+}
