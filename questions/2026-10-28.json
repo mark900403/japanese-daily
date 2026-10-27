@@ -1,0 +1,178 @@
+{
+ "date": "2026-10-28",
+ "questions": [
+  {
+   "word": "ふ",
+   "type": "kana",
+   "prompt": "ふ",
+   "options": [
+    "hu",
+    "fu",
+    "ku",
+    "su"
+   ],
+   "answer": 1,
+   "example": "ふね",
+   "reading": "fune",
+   "exampleZh": "船",
+   "note": "は行預習：ふ 唸 fu（嘴唇輕輕吹氣，不是 hu），形狀像跳舞的小人",
+   "id": "ふ"
+  },
+  {
+   "word": "へ",
+   "type": "romaji",
+   "prompt": "he",
+   "options": [
+    "く",
+    "て",
+    "へ",
+    "ん"
+   ],
+   "answer": 2,
+   "example": "へや",
+   "reading": "heya",
+   "exampleZh": "房間",
+   "note": "は行預習：へ = he，像一座小山；平假名和片假名 ヘ 幾乎一樣（當助詞時唸 e）",
+   "id": "へ"
+  },
+  {
+   "word": "ほ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ほ",
+   "options": [
+    "は",
+    "ほ",
+    "よ",
+    "け"
+   ],
+   "answer": 1,
+   "example": "ほし",
+   "reading": "hoshi",
+   "exampleZh": "星星",
+   "note": "ほ = ho；和 は 很像，但 ほ 右邊多一橫",
+   "id": "ほ"
+  },
+  {
+   "word": "ひと",
+   "type": "kana",
+   "prompt": "ひと",
+   "options": [
+    "shito",
+    "hito",
+    "hiko",
+    "hita"
+   ],
+   "answer": 1,
+   "example": "あのひと",
+   "reading": "ano hito",
+   "exampleZh": "那個人",
+   "note": "複習 ひ(hi)＋と(to)＝人",
+   "id": "ひと"
+  },
+  {
+   "word": "さかな",
+   "type": "listen",
+   "prompt": "",
+   "audio": "さかな",
+   "options": [
+    "さかな",
+    "さなか",
+    "たかな",
+    "さかね"
+   ],
+   "answer": 0,
+   "example": "さかなをたべる",
+   "reading": "sakana o taberu",
+   "exampleZh": "吃魚",
+   "note": "さ(sa)・か(ka)・な(na)＝魚",
+   "id": "さかな"
+  },
+  {
+   "word": "す",
+   "type": "romaji",
+   "prompt": "su",
+   "options": [
+    "む",
+    "す",
+    "お",
+    "あ"
+   ],
+   "answer": 1,
+   "example": "すし",
+   "reading": "sushi",
+   "exampleZh": "壽司",
+   "note": "す 下面有個小圈圈，和 む 不一樣（む 右邊多一點）",
+   "id": "す"
+  },
+  {
+   "word": "ち",
+   "type": "kana",
+   "prompt": "ち",
+   "options": [
+    "sa",
+    "chi",
+    "ti",
+    "ra"
+   ],
+   "answer": 1,
+   "example": "くち",
+   "reading": "kuchi",
+   "exampleZh": "嘴巴",
+   "note": "ち 唸 chi，和 さ 是左右相反的形狀",
+   "id": "ち"
+  },
+  {
+   "word": "に",
+   "type": "romaji",
+   "prompt": "ni",
+   "options": [
+    "こ",
+    "た",
+    "に",
+    "い"
+   ],
+   "answer": 2,
+   "example": "にく",
+   "reading": "niku",
+   "exampleZh": "肉",
+   "note": "に 左邊一豎，右邊像 こ",
+   "id": "に"
+  },
+  {
+   "word": "いぬ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "いぬ",
+   "options": [
+    "いね",
+    "いぬ",
+    "めぬ",
+    "いの"
+   ],
+   "answer": 1,
+   "example": "いぬがすき",
+   "reading": "inu ga suki",
+   "exampleZh": "喜歡狗",
+   "note": "ぬ 和 め 很像，ぬ 尾巴有一個小圈",
+   "id": "いぬ"
+  },
+  {
+   "word": "おかし",
+   "type": "kana",
+   "prompt": "おかし",
+   "options": [
+    "okashi",
+    "okasi",
+    "akashi",
+    "okachi"
+   ],
+   "answer": 0,
+   "example": "おかしをかう",
+   "reading": "okashi o kau",
+   "exampleZh": "買零食",
+   "note": "お・か・し＝點心、零食；し 拼成 shi",
+   "id": "おかし"
+  }
+ ]
+}
