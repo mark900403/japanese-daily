@@ -1,0 +1,178 @@
+{
+ "date": "2026-10-29",
+ "questions": [
+  {
+   "word": "へ",
+   "type": "kana",
+   "prompt": "へ",
+   "options": [
+    "hi",
+    "fe",
+    "he",
+    "ho"
+   ],
+   "answer": 2,
+   "example": "へや",
+   "reading": "heya",
+   "exampleZh": "房間",
+   "note": "は行正式學習！へ = he，像一座小山；當助詞「往～」時唸 e",
+   "id": "へ"
+  },
+  {
+   "word": "ほ",
+   "type": "romaji",
+   "prompt": "ho",
+   "options": [
+    "は",
+    "ほ",
+    "け",
+    "に"
+   ],
+   "answer": 1,
+   "example": "ほし",
+   "reading": "hoshi",
+   "exampleZh": "星星",
+   "note": "ほ 和 は 很像，ほ 右邊上面多一橫",
+   "id": "ほ"
+  },
+  {
+   "word": "ひ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ひ",
+   "options": [
+    "い",
+    "し",
+    "ひ",
+    "ち"
+   ],
+   "answer": 2,
+   "example": "ひと",
+   "reading": "hito",
+   "exampleZh": "人",
+   "note": "ひ = hi，形狀像一個微笑的嘴巴",
+   "id": "ひ"
+  },
+  {
+   "word": "はし",
+   "type": "kana",
+   "prompt": "はし",
+   "options": [
+    "hasi",
+    "hashi",
+    "kashi",
+    "hachi"
+   ],
+   "answer": 1,
+   "example": "はし",
+   "reading": "hashi",
+   "exampleZh": "橋／筷子",
+   "note": "は(ha)＋し(shi)；同樣寫法可以是「橋」或「筷子」，靠聲調區分",
+   "id": "はし"
+  },
+  {
+   "word": "く",
+   "type": "romaji",
+   "prompt": "ku",
+   "options": [
+    "へ",
+    "く",
+    "し",
+    "つ"
+   ],
+   "answer": 1,
+   "example": "くつ",
+   "reading": "kutsu",
+   "exampleZh": "鞋子",
+   "note": "く 是往左的箭頭；へ 是一座小山，別搞混",
+   "id": "く"
+  },
+  {
+   "word": "あさ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "あさ",
+   "options": [
+    "あき",
+    "おさ",
+    "あさ",
+    "あそ"
+   ],
+   "answer": 2,
+   "example": "あさ",
+   "reading": "asa",
+   "exampleZh": "早上",
+   "note": "あ(a)＋さ(sa)＝早上",
+   "id": "あさ"
+  },
+  {
+   "word": "ぬ",
+   "type": "kana",
+   "prompt": "ぬ",
+   "options": [
+    "me",
+    "no",
+    "mu",
+    "nu"
+   ],
+   "answer": 3,
+   "example": "いぬ",
+   "reading": "inu",
+   "exampleZh": "狗",
+   "note": "ぬ 尾巴有小圈圈，め 沒有",
+   "id": "ぬ"
+  },
+  {
+   "word": "つくえ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "つくえ",
+   "options": [
+    "つくえ",
+    "すくえ",
+    "つけえ",
+    "つこえ"
+   ],
+   "answer": 0,
+   "example": "つくえ",
+   "reading": "tsukue",
+   "exampleZh": "書桌",
+   "note": "つ(tsu)・く(ku)・え(e)＝書桌",
+   "id": "つくえ"
+  },
+  {
+   "word": "せかい",
+   "type": "kana",
+   "prompt": "せかい",
+   "options": [
+    "sakai",
+    "sekei",
+    "sekai",
+    "shekai"
+   ],
+   "answer": 2,
+   "example": "せかい",
+   "reading": "sekai",
+   "exampleZh": "世界",
+   "note": "せ(se)＋か(ka)＋い(i)；せ 唸 se，不是 she",
+   "id": "せかい"
+  },
+  {
+   "word": "ね",
+   "type": "romaji",
+   "prompt": "ne",
+   "options": [
+    "ね",
+    "れ",
+    "わ",
+    "ぬ"
+   ],
+   "answer": 0,
+   "example": "ねこ",
+   "reading": "neko",
+   "exampleZh": "貓",
+   "note": "ね 右下角有個小圈圈；れ、わ 沒有",
+   "id": "ね"
+  }
+ ]
+}
