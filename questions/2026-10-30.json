@@ -1,0 +1,177 @@
+{
+ "date": "2026-10-30",
+ "questions": [
+  {
+   "word": "ま",
+   "type": "kana",
+   "prompt": "ま",
+   "options": [
+    "ha",
+    "ma",
+    "na",
+    "ho"
+   ],
+   "answer": 1,
+   "example": "まち",
+   "reading": "machi",
+   "exampleZh": "城鎮、街道",
+   "note": "ま行正式學習！ま = ma，和 ほ 很像，但 ま 上面兩橫都穿過直線、下面打一個圈",
+   "id": "ま"
+  },
+  {
+   "word": "み",
+   "type": "romaji",
+   "prompt": "mi",
+   "options": [
+    "ひ",
+    "に",
+    "み",
+    "ち"
+   ],
+   "answer": 2,
+   "example": "みみ",
+   "reading": "mimi",
+   "exampleZh": "耳朵",
+   "note": "み = mi，看起來像數字 21 連在一起寫",
+   "id": "み"
+  },
+  {
+   "word": "む",
+   "type": "listen",
+   "prompt": "",
+   "audio": "む",
+   "options": [
+    "す",
+    "む",
+    "ぬ",
+    "く"
+   ],
+   "answer": 1,
+   "example": "むし",
+   "reading": "mushi",
+   "exampleZh": "蟲",
+   "note": "む = mu，左邊有個小圈圈，右上多一點",
+   "id": "む"
+  },
+  {
+   "word": "め",
+   "type": "kana",
+   "prompt": "め",
+   "options": [
+    "nu",
+    "ne",
+    "me",
+    "mi"
+   ],
+   "answer": 2,
+   "example": "め",
+   "reading": "me",
+   "exampleZh": "眼睛",
+   "note": "め = me；ぬ 長得像 め 再加一個尾巴小圈圈",
+   "id": "め"
+  },
+  {
+   "word": "ふ",
+   "type": "kana",
+   "prompt": "ふ",
+   "options": [
+    "ku",
+    "fu",
+    "su",
+    "tsu"
+   ],
+   "answer": 1,
+   "example": "ふね",
+   "reading": "fune",
+   "exampleZh": "船",
+   "note": "ふ 唸 fu，嘴唇輕輕吹氣，不是英文的 f",
+   "id": "ふ"
+  },
+  {
+   "word": "ほし",
+   "type": "romaji",
+   "prompt": "hoshi",
+   "options": [
+    "はし",
+    "ほさ",
+    "ほし",
+    "へし"
+   ],
+   "answer": 2,
+   "example": "ほし",
+   "reading": "hoshi",
+   "exampleZh": "星星",
+   "note": "ほ(ho)＋し(shi)；ほ 比 は 多一橫",
+   "id": "ほし"
+  },
+  {
+   "word": "へそ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "へそ",
+   "options": [
+    "ほそ",
+    "へそ",
+    "へせ",
+    "ふそ"
+   ],
+   "answer": 1,
+   "example": "へそ",
+   "reading": "heso",
+   "exampleZh": "肚臍",
+   "note": "へ(he)＋そ(so)",
+   "id": "へそ"
+  },
+  {
+   "word": "さけ",
+   "type": "kana",
+   "prompt": "さけ",
+   "options": [
+    "shake",
+    "kake",
+    "sake",
+    "sate"
+   ],
+   "answer": 2,
+   "example": "さけ",
+   "reading": "sake",
+   "exampleZh": "酒／鮭魚",
+   "note": "さ(sa)＋け(ke)；同樣寫法可以是「酒」或「鮭魚」",
+   "id": "さけ"
+  },
+  {
+   "word": "ぬ",
+   "type": "romaji",
+   "prompt": "nu",
+   "options": [
+    "め",
+    "ね",
+    "の",
+    "ぬ"
+   ],
+   "answer": 3,
+   "example": "いぬ",
+   "reading": "inu",
+   "exampleZh": "狗",
+   "note": "今天學了 め，記得：ぬ 有小圈圈尾巴，め 沒有",
+   "id": "ぬ"
+  },
+  {
+   "word": "いけ",
+   "type": "kana",
+   "prompt": "いけ",
+   "options": [
+    "ite",
+    "ike",
+    "iki",
+    "eke"
+   ],
+   "answer": 1,
+   "example": "いけ",
+   "reading": "ike",
+   "exampleZh": "池塘",
+   "note": "い(i)＋け(ke)",
+   "id": "いけ"
+  }
+ ]
+}
