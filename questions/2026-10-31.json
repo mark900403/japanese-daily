@@ -1,0 +1,178 @@
+{
+ "date": "2026-10-31",
+ "questions": [
+  {
+   "word": "も",
+   "type": "kana",
+   "prompt": "も",
+   "options": [
+    "ma",
+    "shi",
+    "ho",
+    "mo"
+   ],
+   "answer": 3,
+   "example": "もも",
+   "reading": "momo",
+   "exampleZh": "桃子",
+   "note": "も = mo，像一個魚鉤加兩橫；ま行最後一個字",
+   "id": "も"
+  },
+  {
+   "word": "ま",
+   "type": "romaji",
+   "prompt": "ma",
+   "options": [
+    "も",
+    "は",
+    "ほ",
+    "ま"
+   ],
+   "answer": 3,
+   "example": "まめ",
+   "reading": "mame",
+   "exampleZh": "豆子",
+   "note": "複習：ま 兩橫都穿過直線；ほ 的直線在左邊、上面不出頭",
+   "id": "ま"
+  },
+  {
+   "word": "め",
+   "type": "listen",
+   "prompt": "",
+   "audio": "め",
+   "options": [
+    "ぬ",
+    "あ",
+    "め",
+    "ね"
+   ],
+   "answer": 2,
+   "example": "め",
+   "reading": "me",
+   "exampleZh": "眼睛",
+   "note": "め 沒有尾巴小圈圈，ぬ 才有",
+   "id": "め"
+  },
+  {
+   "word": "むし",
+   "type": "kana",
+   "prompt": "むし",
+   "options": [
+    "mashi",
+    "mushi",
+    "nushi",
+    "musu"
+   ],
+   "answer": 1,
+   "example": "むし",
+   "reading": "mushi",
+   "exampleZh": "蟲",
+   "note": "む(mu)＋し(shi)",
+   "id": "むし"
+  },
+  {
+   "word": "みみ",
+   "type": "romaji",
+   "prompt": "mimi",
+   "options": [
+    "みみ",
+    "にに",
+    "ひひ",
+    "めめ"
+   ],
+   "answer": 0,
+   "example": "みみ",
+   "reading": "mimi",
+   "exampleZh": "耳朵",
+   "note": "み 像數字 21 連在一起",
+   "id": "みみ"
+  },
+  {
+   "word": "なつ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "なつ",
+   "options": [
+    "ねつ",
+    "なす",
+    "なつ",
+    "たつ"
+   ],
+   "answer": 2,
+   "example": "なつやすみ",
+   "reading": "natsu yasumi",
+   "exampleZh": "夏天；暑假",
+   "note": "な(na)＋つ(tsu)；つ 唸 tsu，舌尖輕碰上牙齦",
+   "id": "なつ"
+  },
+  {
+   "word": "ひと",
+   "type": "kana",
+   "prompt": "ひと",
+   "options": [
+    "shito",
+    "hito",
+    "hiso",
+    "fito"
+   ],
+   "answer": 1,
+   "example": "ひと",
+   "reading": "hito",
+   "exampleZh": "人",
+   "note": "ひ 唸 hi，像一個微笑的嘴巴",
+   "id": "ひと"
+  },
+  {
+   "word": "て",
+   "type": "romaji",
+   "prompt": "te",
+   "options": [
+    "と",
+    "て",
+    "そ",
+    "つ"
+   ],
+   "answer": 1,
+   "example": "て",
+   "reading": "te",
+   "exampleZh": "手",
+   "note": "て 像一個橫線加往左下彎的鉤子",
+   "id": "て"
+  },
+  {
+   "word": "きのこ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "きのこ",
+   "options": [
+    "きのこう",
+    "きのこ",
+    "きぬこ",
+    "さのこ"
+   ],
+   "answer": 1,
+   "example": "きのこ",
+   "reading": "kinoko",
+   "exampleZh": "香菇、菇類",
+   "note": "き(ki)＋の(no)＋こ(ko)",
+   "id": "きのこ"
+  },
+  {
+   "word": "あさ",
+   "type": "kana",
+   "prompt": "あさ",
+   "options": [
+    "asa",
+    "osa",
+    "aki",
+    "ase"
+   ],
+   "answer": 0,
+   "example": "あさごはん",
+   "reading": "asa gohan",
+   "exampleZh": "早上；早餐",
+   "note": "あ(a)＋さ(sa)；お 和 あ 很像，お 右邊有一點",
+   "id": "あさ"
+  }
+ ]
+}
