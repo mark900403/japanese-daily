@@ -1,0 +1,178 @@
+{
+ "date": "2026-11-01",
+ "questions": [
+  {
+   "word": "み",
+   "type": "kana",
+   "prompt": "み",
+   "options": [
+    "mi",
+    "me",
+    "ni",
+    "mu"
+   ],
+   "answer": 0,
+   "example": "みず",
+   "reading": "mizu",
+   "exampleZh": "水",
+   "note": "み = mi，像數字 21 連在一起；ま行第二個字",
+   "id": "み"
+  },
+  {
+   "word": "む",
+   "type": "romaji",
+   "prompt": "mu",
+   "options": [
+    "す",
+    "む",
+    "お",
+    "ぬ"
+   ],
+   "answer": 1,
+   "example": "むし",
+   "reading": "mushi",
+   "exampleZh": "蟲",
+   "note": "む 右上有一點、下面有小圈；す 只有圈沒有點",
+   "id": "む"
+  },
+  {
+   "word": "も",
+   "type": "listen",
+   "prompt": "",
+   "audio": "も",
+   "options": [
+    "し",
+    "も",
+    "ま",
+    "ほ"
+   ],
+   "answer": 1,
+   "example": "もも",
+   "reading": "momo",
+   "exampleZh": "桃子",
+   "note": "も = mo；ほ 是 ho，左邊多一條直線",
+   "id": "も"
+  },
+  {
+   "word": "あめ",
+   "type": "kana",
+   "prompt": "あめ",
+   "options": [
+    "ane",
+    "ame",
+    "ome",
+    "amu"
+   ],
+   "answer": 1,
+   "example": "あめがふる",
+   "reading": "ame ga furu",
+   "exampleZh": "雨；下雨",
+   "note": "あ(a)＋め(me)；め 和 ぬ 很像，ぬ 有小圈圈尾巴",
+   "id": "あめ"
+  },
+  {
+   "word": "まめ",
+   "type": "romaji",
+   "prompt": "mame",
+   "options": [
+    "ほめ",
+    "まぬ",
+    "まめ",
+    "もめ"
+   ],
+   "answer": 2,
+   "example": "まめ",
+   "reading": "mame",
+   "exampleZh": "豆子",
+   "note": "ま(ma)＋め(me)",
+   "id": "まめ"
+  },
+  {
+   "word": "さむい",
+   "type": "listen",
+   "prompt": "",
+   "audio": "さむい",
+   "options": [
+    "さむい",
+    "さすい",
+    "ちむい",
+    "さむき"
+   ],
+   "answer": 0,
+   "example": "きょうはさむい",
+   "reading": "kyou wa samui",
+   "exampleZh": "今天很冷",
+   "note": "さ(sa)＋む(mu)＋い(i)；冬天快到了，記住「さむい＝冷」",
+   "id": "さむい"
+  },
+  {
+   "word": "な",
+   "type": "kana",
+   "prompt": "な",
+   "options": [
+    "ta",
+    "na",
+    "ma",
+    "ha"
+   ],
+   "answer": 1,
+   "example": "なまえ",
+   "reading": "namae",
+   "exampleZh": "名字",
+   "note": "複習：な 左上是「十」，右下有小圈；た 右邊是兩橫",
+   "id": "な"
+  },
+  {
+   "word": "ふね",
+   "type": "romaji",
+   "prompt": "fune",
+   "options": [
+    "ふね",
+    "ふれ",
+    "ぶね",
+    "ふぬ"
+   ],
+   "answer": 0,
+   "example": "ふね",
+   "reading": "fune",
+   "exampleZh": "船",
+   "note": "ふ 唸 fu（上齒不碰唇，輕吹氣）；ね 右下有小圈",
+   "id": "ふね"
+  },
+  {
+   "word": "たけ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "たけ",
+   "options": [
+    "たこ",
+    "だけ",
+    "たけ",
+    "なけ"
+   ],
+   "answer": 2,
+   "example": "たけ",
+   "reading": "take",
+   "exampleZh": "竹子",
+   "note": "た(ta)＋け(ke)",
+   "id": "たけ"
+  },
+  {
+   "word": "そこ",
+   "type": "kana",
+   "prompt": "そこ",
+   "options": [
+    "soko",
+    "soto",
+    "toko",
+    "sono"
+   ],
+   "answer": 0,
+   "example": "そこにいます",
+   "reading": "soko ni imasu",
+   "exampleZh": "在那裡",
+   "note": "そ(so)＋こ(ko)；そ 是一筆寫完的 Z 字形",
+   "id": "そこ"
+  }
+ ]
+}
