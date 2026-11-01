@@ -1,0 +1,178 @@
+{
+ "date": "2026-11-02",
+ "questions": [
+  {
+   "word": "や",
+   "type": "kana",
+   "prompt": "や",
+   "options": [
+    "yu",
+    "ya",
+    "yo",
+    "wa"
+   ],
+   "answer": 1,
+   "example": "やま",
+   "reading": "yama",
+   "exampleZh": "山",
+   "note": "新的一行！や = ya，や行只有三個字：や・ゆ・よ",
+   "id": "や"
+  },
+  {
+   "word": "ゆ",
+   "type": "romaji",
+   "prompt": "yu",
+   "options": [
+    "よ",
+    "ゆ",
+    "わ",
+    "ぬ"
+   ],
+   "answer": 1,
+   "example": "ゆき",
+   "reading": "yuki",
+   "exampleZh": "雪",
+   "note": "ゆ = yu，中間有一條直線穿過圓圈，像個魚鉤",
+   "id": "ゆ"
+  },
+  {
+   "word": "よ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "よ",
+   "options": [
+    "ま",
+    "ほ",
+    "よ",
+    "も"
+   ],
+   "answer": 2,
+   "example": "よる",
+   "reading": "yoru",
+   "exampleZh": "晚上",
+   "note": "よ = yo；ま 有兩條橫線，よ 只有一條短橫",
+   "id": "よ"
+  },
+  {
+   "word": "やさい",
+   "type": "kana",
+   "prompt": "やさい",
+   "options": [
+    "yasai",
+    "yasui",
+    "wasai",
+    "yamai"
+   ],
+   "answer": 0,
+   "example": "やさい",
+   "reading": "yasai",
+   "exampleZh": "蔬菜",
+   "note": "や(ya)＋さ(sa)＋い(i)",
+   "id": "やさい"
+  },
+  {
+   "word": "め",
+   "type": "romaji",
+   "prompt": "me",
+   "options": [
+    "ぬ",
+    "あ",
+    "め",
+    "の"
+   ],
+   "answer": 2,
+   "example": "め",
+   "reading": "me",
+   "exampleZh": "眼睛",
+   "note": "め 沒有尾巴的小圈；ぬ 右下角多一個小圈",
+   "id": "め"
+  },
+  {
+   "word": "むね",
+   "type": "listen",
+   "prompt": "",
+   "audio": "むね",
+   "options": [
+    "むね",
+    "すね",
+    "もね",
+    "むれ"
+   ],
+   "answer": 0,
+   "example": "むね",
+   "reading": "mune",
+   "exampleZh": "胸口",
+   "note": "む(mu)＋ね(ne)",
+   "id": "むね"
+  },
+  {
+   "word": "ほ",
+   "type": "kana",
+   "prompt": "ほ",
+   "options": [
+    "ha",
+    "ho",
+    "ma",
+    "mo"
+   ],
+   "answer": 1,
+   "example": "ほし",
+   "reading": "hoshi",
+   "exampleZh": "星星",
+   "note": "ほ = ho，右邊兩橫加圈；は 只有一橫",
+   "id": "ほ"
+  },
+  {
+   "word": "みせ",
+   "type": "romaji",
+   "prompt": "mise",
+   "options": [
+    "みせ",
+    "みさ",
+    "ませ",
+    "にせ"
+   ],
+   "answer": 0,
+   "example": "みせ",
+   "reading": "mise",
+   "exampleZh": "商店",
+   "note": "み(mi)＋せ(se)",
+   "id": "みせ"
+  },
+  {
+   "word": "つくえ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "つくえ",
+   "options": [
+    "すくえ",
+    "つくえ",
+    "つきえ",
+    "ちくえ"
+   ],
+   "answer": 1,
+   "example": "つくえ",
+   "reading": "tsukue",
+   "exampleZh": "書桌",
+   "note": "つ(tsu)＋く(ku)＋え(e)",
+   "id": "つくえ"
+  },
+  {
+   "word": "はな",
+   "type": "kana",
+   "prompt": "はな",
+   "options": [
+    "hana",
+    "hama",
+    "bana",
+    "hona"
+   ],
+   "answer": 0,
+   "example": "はな",
+   "reading": "hana",
+   "exampleZh": "花／鼻子",
+   "note": "は(ha)＋な(na)",
+   "id": "はな"
+  }
+ ]
+}
