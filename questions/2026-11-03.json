@@ -1,0 +1,178 @@
+{
+ "date": "2026-11-03",
+ "questions": [
+  {
+   "word": "よ",
+   "type": "kana",
+   "prompt": "よ",
+   "options": [
+    "yu",
+    "ho",
+    "yo",
+    "ma"
+   ],
+   "answer": 2,
+   "example": "よむ",
+   "reading": "yomu",
+   "exampleZh": "閱讀",
+   "note": "複習昨天的新行：よ = yo，一條短橫加一個圈",
+   "id": "よ"
+  },
+  {
+   "word": "や",
+   "type": "romaji",
+   "prompt": "ya",
+   "options": [
+    "か",
+    "や",
+    "ゆ",
+    "せ"
+   ],
+   "answer": 1,
+   "example": "やま",
+   "reading": "yama",
+   "exampleZh": "山",
+   "note": "や = ya；和 か 有點像，但 や 右上有一個小勾",
+   "id": "や"
+  },
+  {
+   "word": "ゆ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ゆ",
+   "options": [
+    "よ",
+    "ぬ",
+    "ゆ",
+    "わ"
+   ],
+   "answer": 2,
+   "example": "ゆめ",
+   "reading": "yume",
+   "exampleZh": "夢",
+   "note": "ゆ = yu，圓圈中間有一條直線穿過",
+   "id": "ゆ"
+  },
+  {
+   "word": "ゆき",
+   "type": "kana",
+   "prompt": "ゆき",
+   "options": [
+    "yoki",
+    "yuki",
+    "yuke",
+    "yaki"
+   ],
+   "answer": 1,
+   "example": "ゆき",
+   "reading": "yuki",
+   "exampleZh": "雪",
+   "note": "ゆ(yu)＋き(ki)",
+   "id": "ゆき"
+  },
+  {
+   "word": "へや",
+   "type": "romaji",
+   "prompt": "heya",
+   "options": [
+    "へや",
+    "へゆ",
+    "ほや",
+    "はや"
+   ],
+   "answer": 0,
+   "example": "へや",
+   "reading": "heya",
+   "exampleZh": "房間",
+   "note": "へ(he)＋や(ya)；へ 只是一個小山形",
+   "id": "へや"
+  },
+  {
+   "word": "ち",
+   "type": "kana",
+   "prompt": "ち",
+   "options": [
+    "sa",
+    "chi",
+    "ta",
+    "ra"
+   ],
+   "answer": 1,
+   "example": "ちかてつ",
+   "reading": "chikatetsu",
+   "exampleZh": "地下鐵",
+   "note": "ち = chi；さ 的方向相反，注意別搞混",
+   "id": "ち"
+  },
+  {
+   "word": "ふね",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ふね",
+   "options": [
+    "ふね",
+    "ふな",
+    "ほね",
+    "ぬね"
+   ],
+   "answer": 0,
+   "example": "ふね",
+   "reading": "fune",
+   "exampleZh": "船",
+   "note": "ふ(fu)＋ね(ne)；ほね 是「骨頭」",
+   "id": "ふね"
+  },
+  {
+   "word": "の",
+   "type": "romaji",
+   "prompt": "no",
+   "options": [
+    "め",
+    "ぬ",
+    "あ",
+    "の"
+   ],
+   "answer": 3,
+   "example": "わたしの",
+   "reading": "watashi no",
+   "exampleZh": "我的",
+   "note": "の = no，一筆畫成的圈，也是常用的「的」",
+   "id": "の"
+  },
+  {
+   "word": "すし",
+   "type": "kana",
+   "prompt": "すし",
+   "options": [
+    "susi",
+    "sushi",
+    "soshi",
+    "sasi"
+   ],
+   "answer": 1,
+   "example": "すし",
+   "reading": "sushi",
+   "exampleZh": "壽司",
+   "note": "し 的羅馬拼音是 shi，不是 si",
+   "id": "すし"
+  },
+  {
+   "word": "やすみ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "やすみ",
+   "options": [
+    "やすみ",
+    "やすま",
+    "ゆすみ",
+    "やしみ"
+   ],
+   "answer": 0,
+   "example": "あしたはやすみです",
+   "reading": "yasumi",
+   "exampleZh": "休息、假日",
+   "note": "や(ya)＋す(su)＋み(mi)",
+   "id": "やすみ"
+  }
+ ]
+}
