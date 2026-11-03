@@ -1,0 +1,178 @@
+{
+ "date": "2026-11-04",
+ "questions": [
+  {
+   "word": "ゆ",
+   "type": "kana",
+   "prompt": "ゆ",
+   "options": [
+    "yo",
+    "yu",
+    "ya",
+    "mu"
+   ],
+   "answer": 1,
+   "example": "ゆき",
+   "reading": "yuki",
+   "exampleZh": "雪",
+   "note": "ゆ = yu，像一條魚，中間有直線穿過",
+   "id": "ゆ"
+  },
+  {
+   "word": "よ",
+   "type": "romaji",
+   "prompt": "yo",
+   "options": [
+    "ま",
+    "ほ",
+    "よ",
+    "は"
+   ],
+   "answer": 2,
+   "example": "よむ",
+   "reading": "yomu",
+   "exampleZh": "閱讀",
+   "note": "よ = yo；ほ 左邊多一條直線，よ 沒有",
+   "id": "よ"
+  },
+  {
+   "word": "や",
+   "type": "listen",
+   "prompt": "",
+   "audio": "や",
+   "options": [
+    "や",
+    "か",
+    "せ",
+    "ち"
+   ],
+   "answer": 0,
+   "example": "やま",
+   "reading": "yama",
+   "exampleZh": "山",
+   "note": "や = ya，や行只有 や・ゆ・よ 三個字",
+   "id": "や"
+  },
+  {
+   "word": "やま",
+   "type": "kana",
+   "prompt": "やま",
+   "options": [
+    "yama",
+    "yuma",
+    "hama",
+    "yamo"
+   ],
+   "answer": 0,
+   "example": "やま",
+   "reading": "yama",
+   "exampleZh": "山",
+   "note": "や（ya）＋ま（ma）= やま，山",
+   "id": "やま"
+  },
+  {
+   "word": "ふゆ",
+   "type": "romaji",
+   "prompt": "fuyu",
+   "options": [
+    "ふよ",
+    "ふゆ",
+    "ぬゆ",
+    "ふや"
+   ],
+   "answer": 1,
+   "example": "ふゆ",
+   "reading": "fuyu",
+   "exampleZh": "冬天",
+   "note": "ふ = fu（不是 hu），ゆ = yu",
+   "id": "ふゆ"
+  },
+  {
+   "word": "ね",
+   "type": "kana",
+   "prompt": "ね",
+   "options": [
+    "nu",
+    "me",
+    "ne",
+    "re"
+   ],
+   "answer": 2,
+   "example": "ねこ",
+   "reading": "neko",
+   "exampleZh": "貓",
+   "note": "ね = ne，尾巴打一個圈；ぬ 是 nu、め 是 me，三個很像要小心",
+   "id": "ね"
+  },
+  {
+   "word": "ひと",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ひと",
+   "options": [
+    "ひと",
+    "ひこ",
+    "いと",
+    "ほと"
+   ],
+   "answer": 0,
+   "example": "ひと",
+   "reading": "hito",
+   "exampleZh": "人",
+   "note": "ひ = hi，と = to",
+   "id": "ひと"
+  },
+  {
+   "word": "つ",
+   "type": "kana",
+   "prompt": "つ",
+   "options": [
+    "su",
+    "tsu",
+    "chi",
+    "shi"
+   ],
+   "answer": 1,
+   "example": "つき",
+   "reading": "tsuki",
+   "exampleZh": "月亮",
+   "note": "つ = tsu，像一道波浪；た行是 た ち つ て と（ta chi tsu te to）",
+   "id": "つ"
+  },
+  {
+   "word": "きつね",
+   "type": "romaji",
+   "prompt": "kitsune",
+   "options": [
+    "きつね",
+    "きつぬ",
+    "さつね",
+    "きすね"
+   ],
+   "answer": 0,
+   "example": "きつね",
+   "reading": "kitsune",
+   "exampleZh": "狐狸",
+   "note": "き（ki）＋つ（tsu）＋ね（ne）；注意 き 和 さ 很像，き 多一條橫線",
+   "id": "きつね"
+  },
+  {
+   "word": "おやすみ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "おやすみ",
+   "options": [
+    "おやすみ",
+    "およすみ",
+    "おやすむ",
+    "あやすみ"
+   ],
+   "answer": 0,
+   "example": "おやすみなさい",
+   "reading": "oyasumi nasai",
+   "exampleZh": "晚安",
+   "note": "おやすみ = 晚安（朋友間的說法），睡前可以跟家人說",
+   "id": "おやすみ"
+  }
+ ]
+}
