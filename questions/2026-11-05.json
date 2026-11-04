@@ -1,0 +1,178 @@
+{
+ "date": "2026-11-05",
+ "questions": [
+  {
+   "word": "ら",
+   "type": "kana",
+   "prompt": "ら",
+   "options": [
+    "ra",
+    "ri",
+    "ru",
+    "ro"
+   ],
+   "answer": 0,
+   "example": "さくら",
+   "reading": "sakura",
+   "exampleZh": "櫻花",
+   "note": "ら = ra，新的一行：ら行（ら・り・る・れ・ろ）。日語的 r 介於 l 和 r 之間，舌尖輕彈一下",
+   "id": "ら"
+  },
+  {
+   "word": "り",
+   "type": "romaji",
+   "prompt": "ri",
+   "options": [
+    "い",
+    "り",
+    "こ",
+    "け"
+   ],
+   "answer": 1,
+   "example": "りんご",
+   "reading": "ringo",
+   "exampleZh": "蘋果",
+   "note": "り = ri，兩條直線、左短右長；い 是兩筆分開且較圓",
+   "id": "り"
+  },
+  {
+   "word": "る",
+   "type": "listen",
+   "prompt": "",
+   "audio": "る",
+   "options": [
+    "ろ",
+    "る",
+    "ぬ",
+    "め"
+   ],
+   "answer": 1,
+   "example": "はる",
+   "reading": "haru",
+   "exampleZh": "春天",
+   "note": "る = ru，尾巴有一個小圈；ろ 沒有圈",
+   "id": "る"
+  },
+  {
+   "word": "ろ",
+   "type": "kana",
+   "prompt": "ろ",
+   "options": [
+    "ru",
+    "re",
+    "ro",
+    "no"
+   ],
+   "answer": 2,
+   "example": "いろ",
+   "reading": "iro",
+   "exampleZh": "顏色",
+   "note": "ろ = ro，看起來像 る 但尾巴沒有圈",
+   "id": "ろ"
+  },
+  {
+   "word": "ゆき",
+   "type": "romaji",
+   "prompt": "yuki",
+   "options": [
+    "よき",
+    "ゆき",
+    "ゆさ",
+    "やき"
+   ],
+   "answer": 1,
+   "example": "ゆき",
+   "reading": "yuki",
+   "exampleZh": "雪",
+   "note": "ゆ（yu）＋き（ki）= ゆき，複習 や行",
+   "id": "ゆき"
+  },
+  {
+   "word": "へや",
+   "type": "listen",
+   "prompt": "",
+   "audio": "へや",
+   "options": [
+    "へや",
+    "へよ",
+    "ほや",
+    "はや"
+   ],
+   "answer": 0,
+   "example": "へや",
+   "reading": "heya",
+   "exampleZh": "房間",
+   "note": "へ（he）＋や（ya）= へや，房間",
+   "id": "へや"
+  },
+  {
+   "word": "む",
+   "type": "kana",
+   "prompt": "む",
+   "options": [
+    "mu",
+    "su",
+    "yu",
+    "nu"
+   ],
+   "answer": 0,
+   "example": "むし",
+   "reading": "mushi",
+   "exampleZh": "蟲",
+   "note": "む = mu，複習 ま行",
+   "id": "む"
+  },
+  {
+   "word": "さかな",
+   "type": "romaji",
+   "prompt": "sakana",
+   "options": [
+    "さかな",
+    "ちかな",
+    "さかま",
+    "さたな"
+   ],
+   "answer": 0,
+   "example": "さかな",
+   "reading": "sakana",
+   "exampleZh": "魚",
+   "note": "さ（sa）＋か（ka）＋な（na）= さかな",
+   "id": "さかな"
+  },
+  {
+   "word": "ひ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ひ",
+   "options": [
+    "ふ",
+    "へ",
+    "ひ",
+    "ほ"
+   ],
+   "answer": 2,
+   "example": "ひと",
+   "reading": "hito",
+   "exampleZh": "人",
+   "note": "ひ = hi，像一個微笑的嘴巴，複習 は行",
+   "id": "ひ"
+  },
+  {
+   "word": "よむ",
+   "type": "kana",
+   "prompt": "よむ",
+   "options": [
+    "yomu",
+    "yumu",
+    "homu",
+    "yonu"
+   ],
+   "answer": 0,
+   "example": "ほんを よむ",
+   "reading": "hon o yomu",
+   "exampleZh": "讀書",
+   "note": "よ（yo）＋む（mu）= よむ，閱讀",
+   "id": "よむ"
+  }
+ ]
+}
