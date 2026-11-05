@@ -1,0 +1,178 @@
+{
+ "date": "2026-11-06",
+ "questions": [
+  {
+   "word": "れ",
+   "type": "kana",
+   "prompt": "れ",
+   "options": [
+    "re",
+    "ne",
+    "ru",
+    "ro"
+   ],
+   "answer": 0,
+   "example": "これ",
+   "reading": "kore",
+   "exampleZh": "這個",
+   "note": "れ = re，ら行還沒練過的字。ね 右下有小圈，れ 沒有",
+   "id": "れ"
+  },
+  {
+   "word": "ら",
+   "type": "romaji",
+   "prompt": "ra",
+   "options": [
+    "ら",
+    "ち",
+    "う",
+    "ろ"
+   ],
+   "answer": 0,
+   "example": "さくら",
+   "reading": "sakura",
+   "exampleZh": "櫻花",
+   "note": "複習：ら = ra，日語 r 舌尖輕彈一下",
+   "id": "ら"
+  },
+  {
+   "word": "り",
+   "type": "listen",
+   "prompt": "",
+   "audio": "り",
+   "options": [
+    "い",
+    "り",
+    "こ",
+    "に"
+   ],
+   "answer": 1,
+   "example": "りんご",
+   "reading": "ringo",
+   "exampleZh": "蘋果",
+   "note": "り = ri，兩條直線左短右長；い 是兩筆分開",
+   "id": "り"
+  },
+  {
+   "word": "はる",
+   "type": "kana",
+   "prompt": "はる",
+   "options": [
+    "haru",
+    "horu",
+    "hanu",
+    "heru"
+   ],
+   "answer": 0,
+   "example": "はる",
+   "reading": "haru",
+   "exampleZh": "春天",
+   "note": "は（ha）＋る（ru）= はる，春天；る 尾巴有小圈",
+   "id": "はる"
+  },
+  {
+   "word": "そら",
+   "type": "romaji",
+   "prompt": "sora",
+   "options": [
+    "そら",
+    "さら",
+    "そや",
+    "ちら"
+   ],
+   "answer": 0,
+   "example": "そら",
+   "reading": "sora",
+   "exampleZh": "天空",
+   "note": "そ（so）＋ら（ra）= そら，天空",
+   "id": "そら"
+  },
+  {
+   "word": "ろ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ろ",
+   "options": [
+    "る",
+    "ろ",
+    "の",
+    "め"
+   ],
+   "answer": 1,
+   "example": "しろ",
+   "reading": "shiro",
+   "exampleZh": "白色",
+   "note": "ろ = ro；る 尾巴有圈，ろ 沒有",
+   "id": "ろ"
+  },
+  {
+   "word": "く",
+   "type": "kana",
+   "prompt": "く",
+   "options": [
+    "ku",
+    "ke",
+    "chi",
+    "tsu"
+   ],
+   "answer": 0,
+   "example": "くるま",
+   "reading": "kuruma",
+   "exampleZh": "車子",
+   "note": "く = ku，像小於符號 ＜；複習 か行",
+   "id": "く"
+  },
+  {
+   "word": "くるま",
+   "type": "romaji",
+   "prompt": "kuruma",
+   "options": [
+    "くるま",
+    "くらま",
+    "けるま",
+    "くろま"
+   ],
+   "answer": 0,
+   "example": "くるま",
+   "reading": "kuruma",
+   "exampleZh": "車子",
+   "note": "く（ku）＋る（ru）＋ま（ma）= くるま",
+   "id": "くるま"
+  },
+  {
+   "word": "やま",
+   "type": "listen",
+   "prompt": "",
+   "audio": "やま",
+   "options": [
+    "やま",
+    "ゆま",
+    "よま",
+    "はま"
+   ],
+   "answer": 0,
+   "example": "やま",
+   "reading": "yama",
+   "exampleZh": "山",
+   "note": "や（ya）＋ま（ma）= やま，山；複習 や行",
+   "id": "やま"
+  },
+  {
+   "word": "しろ",
+   "type": "kana",
+   "prompt": "しろ",
+   "options": [
+    "shiro",
+    "chiro",
+    "shiru",
+    "soro"
+   ],
+   "answer": 0,
+   "example": "しろい",
+   "reading": "shiroi",
+   "exampleZh": "白色的",
+   "note": "し（shi）＋ろ（ro）= しろ，白；し 的羅馬拼音是 shi",
+   "id": "しろ"
+  }
+ ]
+}
