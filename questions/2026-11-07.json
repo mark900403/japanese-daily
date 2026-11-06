@@ -1,0 +1,178 @@
+{
+ "date": "2026-11-07",
+ "questions": [
+  {
+   "word": "る",
+   "type": "kana",
+   "prompt": "る",
+   "options": [
+    "ru",
+    "ro",
+    "re",
+    "nu"
+   ],
+   "answer": 0,
+   "example": "はる",
+   "reading": "haru",
+   "exampleZh": "春天",
+   "note": "る = ru，尾巴有小圈；ろ 沒有圈。複習 ら行",
+   "id": "る"
+  },
+  {
+   "word": "れ",
+   "type": "romaji",
+   "prompt": "re",
+   "options": [
+    "ね",
+    "れ",
+    "わ",
+    "ぬ"
+   ],
+   "answer": 1,
+   "example": "これ",
+   "reading": "kore",
+   "exampleZh": "這個",
+   "note": "れ = re；ね 右下有小圈，れ 沒有",
+   "id": "れ"
+  },
+  {
+   "word": "ろ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ろ",
+   "options": [
+    "る",
+    "ろ",
+    "の",
+    "め"
+   ],
+   "answer": 1,
+   "example": "しろ",
+   "reading": "shiro",
+   "exampleZh": "白色",
+   "note": "ろ = ro；聽音選字，別跟 る 搞混",
+   "id": "ろ"
+  },
+  {
+   "word": "さくら",
+   "type": "kana",
+   "prompt": "さくら",
+   "options": [
+    "sakura",
+    "sakula",
+    "chakura",
+    "sagura"
+   ],
+   "answer": 0,
+   "example": "さくら",
+   "reading": "sakura",
+   "exampleZh": "櫻花",
+   "note": "さ（sa）＋く（ku）＋ら（ra）= さくら",
+   "id": "さくら"
+  },
+  {
+   "word": "りんご",
+   "type": "romaji",
+   "prompt": "ringo",
+   "options": [
+    "りんご",
+    "りんこ",
+    "るんご",
+    "りんごう"
+   ],
+   "answer": 0,
+   "example": "りんご",
+   "reading": "ringo",
+   "exampleZh": "蘋果",
+   "note": "り（ri）＋ん（n）＋ご（go）。ご 是濁音，之後才學，先當整詞記",
+   "id": "りんご"
+  },
+  {
+   "word": "はる",
+   "type": "listen",
+   "prompt": "",
+   "audio": "はる",
+   "options": [
+    "はる",
+    "はろ",
+    "ほる",
+    "へる"
+   ],
+   "answer": 0,
+   "example": "はるが きた",
+   "reading": "haru ga kita",
+   "exampleZh": "春天來了",
+   "note": "は（ha）＋る（ru）= はる，春天",
+   "id": "はる"
+  },
+  {
+   "word": "め",
+   "type": "kana",
+   "prompt": "め",
+   "options": [
+    "me",
+    "ne",
+    "nu",
+    "ma"
+   ],
+   "answer": 0,
+   "example": "め",
+   "reading": "me",
+   "exampleZh": "眼睛",
+   "note": "め = me，複習 ま行；ね 有小圈，め 沒有",
+   "id": "め"
+  },
+  {
+   "word": "すし",
+   "type": "romaji",
+   "prompt": "sushi",
+   "options": [
+    "すし",
+    "すち",
+    "つし",
+    "ずし"
+   ],
+   "answer": 0,
+   "example": "すし",
+   "reading": "sushi",
+   "exampleZh": "壽司",
+   "note": "す（su）＋し（shi）= すし；し 的羅馬拼音是 shi",
+   "id": "すし"
+  },
+  {
+   "word": "ゆき",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ゆき",
+   "options": [
+    "ゆき",
+    "よき",
+    "やき",
+    "うき"
+   ],
+   "answer": 0,
+   "example": "ゆき",
+   "reading": "yuki",
+   "exampleZh": "雪",
+   "note": "ゆ（yu）＋き（ki）= ゆき，複習 や行",
+   "id": "ゆき"
+  },
+  {
+   "word": "そら",
+   "type": "kana",
+   "prompt": "そら",
+   "options": [
+    "sora",
+    "sara",
+    "tora",
+    "sola"
+   ],
+   "answer": 0,
+   "example": "そら",
+   "reading": "sora",
+   "exampleZh": "天空",
+   "note": "そ（so）＋ら（ra）= そら；把 ら行嵌進詞裡練",
+   "id": "そら"
+  }
+ ]
+}
