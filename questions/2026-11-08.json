@@ -1,0 +1,178 @@
+{
+ "date": "2026-11-08",
+ "questions": [
+  {
+   "word": "わ",
+   "type": "kana",
+   "prompt": "わ",
+   "options": [
+    "wa",
+    "ne",
+    "re",
+    "nu"
+   ],
+   "answer": 0,
+   "example": "わたし",
+   "reading": "watashi",
+   "exampleZh": "我",
+   "note": "新行：わ行！わ = wa；わ 右邊圓圓收進去，れ 尾巴往外翹、ね 有小圈",
+   "id": "わ"
+  },
+  {
+   "word": "を",
+   "type": "romaji",
+   "prompt": "o（助詞 wo）",
+   "options": [
+    "お",
+    "を",
+    "あ",
+    "ろ"
+   ],
+   "answer": 1,
+   "example": "すしをたべる",
+   "reading": "sushi o taberu",
+   "exampleZh": "吃壽司",
+   "note": "を 唸 o，跟 お 同音，但只當助詞（表示動作的對象）用",
+   "id": "を"
+  },
+  {
+   "word": "ん",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ん",
+   "options": [
+    "ん",
+    "そ",
+    "く",
+    "し"
+   ],
+   "answer": 0,
+   "example": "ほん",
+   "reading": "hon",
+   "exampleZh": "書",
+   "note": "ん = n，是唯一單獨一個子音的假名，不會出現在字首",
+   "id": "ん"
+  },
+  {
+   "word": "わに",
+   "type": "kana",
+   "prompt": "わに",
+   "options": [
+    "wani",
+    "neni",
+    "reni",
+    "wami"
+   ],
+   "answer": 0,
+   "example": "わに",
+   "reading": "wani",
+   "exampleZh": "鱷魚",
+   "note": "わ（wa）＋に（ni）= わに；新行搭配複習 な行",
+   "id": "わに"
+  },
+  {
+   "word": "り",
+   "type": "kana",
+   "prompt": "り",
+   "options": [
+    "ri",
+    "ko",
+    "i",
+    "ni"
+   ],
+   "answer": 0,
+   "example": "とり",
+   "reading": "tori",
+   "exampleZh": "鳥",
+   "note": "り = ri，兩筆左短右長；い 兩筆差不多長。複習 ら行",
+   "id": "り"
+  },
+  {
+   "word": "る",
+   "type": "romaji",
+   "prompt": "ru",
+   "options": [
+    "ろ",
+    "る",
+    "ら",
+    "れ"
+   ],
+   "answer": 1,
+   "example": "よる",
+   "reading": "yoru",
+   "exampleZh": "晚上",
+   "note": "る 尾巴有小圈，ろ 沒有",
+   "id": "る"
+  },
+  {
+   "word": "よる",
+   "type": "listen",
+   "prompt": "",
+   "audio": "よる",
+   "options": [
+    "よる",
+    "ゆる",
+    "よろ",
+    "やる"
+   ],
+   "answer": 0,
+   "example": "よる",
+   "reading": "yoru",
+   "exampleZh": "晚上",
+   "note": "よ（yo）＋る（ru）= よる，複習 や行＋ら行",
+   "id": "よる"
+  },
+  {
+   "word": "ほし",
+   "type": "romaji",
+   "prompt": "hoshi",
+   "options": [
+    "はし",
+    "ほし",
+    "ほち",
+    "まし"
+   ],
+   "answer": 1,
+   "example": "ほし",
+   "reading": "hoshi",
+   "exampleZh": "星星",
+   "note": "ほ（ho）＋し（shi）；ほ 比 は 多一橫，ま 沒有左邊直線",
+   "id": "ほし"
+  },
+  {
+   "word": "め",
+   "type": "listen",
+   "prompt": "",
+   "audio": "め",
+   "options": [
+    "ぬ",
+    "ね",
+    "め",
+    "あ"
+   ],
+   "answer": 2,
+   "example": "あめ",
+   "reading": "ame",
+   "exampleZh": "雨",
+   "note": "め = me；ぬ 尾巴有小圈，め 沒有",
+   "id": "め"
+  },
+  {
+   "word": "てつ",
+   "type": "kana",
+   "prompt": "てつ",
+   "options": [
+    "tetsu",
+    "tesu",
+    "tetu",
+    "detsu"
+   ],
+   "answer": 0,
+   "example": "てつ",
+   "reading": "tetsu",
+   "exampleZh": "鐵",
+   "note": "つ 的羅馬拼音是 tsu，不是 tu；複習 た行",
+   "id": "てつ"
+  }
+ ]
+}
