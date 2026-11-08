@@ -1,0 +1,178 @@
+{
+ "date": "2026-11-09",
+ "questions": [
+  {
+   "word": "る",
+   "type": "kana",
+   "prompt": "る",
+   "options": [
+    "na",
+    "ne",
+    "ru",
+    "sa"
+   ],
+   "answer": 2,
+   "example": "るす",
+   "reading": "rusu",
+   "exampleZh": "不在家",
+   "note": "複習：る = ru，例：るす（不在家）",
+   "id": "る"
+  },
+  {
+   "word": "ほ",
+   "type": "kana",
+   "prompt": "ほ",
+   "options": [
+    "fu",
+    "ho",
+    "ha",
+    "se"
+   ],
+   "answer": 1,
+   "example": "ほし",
+   "reading": "hoshi",
+   "exampleZh": "星星",
+   "note": "複習：ほ = ho，例：ほし（星星）",
+   "id": "ほ"
+  },
+  {
+   "word": "み",
+   "type": "kana",
+   "prompt": "み",
+   "options": [
+    "n",
+    "su",
+    "mi",
+    "shi"
+   ],
+   "answer": 2,
+   "example": "みず",
+   "reading": "mizu",
+   "exampleZh": "水",
+   "note": "複習：み = mi，例：みず（水）",
+   "id": "み"
+  },
+  {
+   "word": "ふ",
+   "type": "romaji",
+   "prompt": "fu",
+   "options": [
+    "ふ",
+    "け",
+    "な",
+    "と"
+   ],
+   "answer": 0,
+   "example": "ふね",
+   "reading": "fune",
+   "exampleZh": "船",
+   "note": "複習：ふ = fu，例：ふね（船）",
+   "id": "ふ"
+  },
+  {
+   "word": "へ",
+   "type": "romaji",
+   "prompt": "he",
+   "options": [
+    "ま",
+    "へ",
+    "け",
+    "し"
+   ],
+   "answer": 1,
+   "example": "へや",
+   "reading": "heya",
+   "exampleZh": "房間",
+   "note": "複習：へ = he，例：へや（房間）",
+   "id": "へ"
+  },
+  {
+   "word": "つ",
+   "type": "romaji",
+   "prompt": "tsu",
+   "options": [
+    "こ",
+    "る",
+    "つ",
+    "え"
+   ],
+   "answer": 2,
+   "example": "つき",
+   "reading": "tsuki",
+   "exampleZh": "月亮",
+   "note": "複習：つ = tsu，例：つき（月亮）",
+   "id": "つ"
+  },
+  {
+   "word": "り",
+   "type": "listen",
+   "prompt": "",
+   "options": [
+    "り",
+    "と",
+    "た",
+    "ち"
+   ],
+   "answer": 0,
+   "example": "りんご",
+   "reading": "ringo",
+   "exampleZh": "蘋果",
+   "note": "複習：り = ri，例：りんご（蘋果）",
+   "audio": "り",
+   "id": "り"
+  },
+  {
+   "word": "す",
+   "type": "listen",
+   "prompt": "",
+   "options": [
+    "を",
+    "む",
+    "ひ",
+    "す"
+   ],
+   "answer": 3,
+   "example": "すし",
+   "reading": "sushi",
+   "exampleZh": "壽司",
+   "note": "複習：す = su，例：すし（壽司）",
+   "audio": "す",
+   "id": "す"
+  },
+  {
+   "word": "せ",
+   "type": "listen",
+   "prompt": "",
+   "options": [
+    "き",
+    "ち",
+    "あ",
+    "せ"
+   ],
+   "answer": 3,
+   "example": "せかい",
+   "reading": "sekai",
+   "exampleZh": "世界",
+   "note": "複習：せ = se，例：せかい（世界）",
+   "audio": "せ",
+   "id": "せ"
+  },
+  {
+   "word": "ろ",
+   "type": "kana",
+   "prompt": "ろ",
+   "options": [
+    "e",
+    "ha",
+    "ro",
+    "ku"
+   ],
+   "answer": 2,
+   "example": "ろく",
+   "reading": "roku",
+   "exampleZh": "六",
+   "note": "複習：ろ = ro，例：ろく（六）",
+   "id": "ろ"
+  }
+ ]
+}
