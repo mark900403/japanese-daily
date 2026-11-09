@@ -1,0 +1,178 @@
+{
+ "date": "2026-11-10",
+ "questions": [
+  {
+   "word": "が",
+   "type": "kana",
+   "prompt": "が",
+   "options": [
+    "ka",
+    "ga",
+    "ta",
+    "da"
+   ],
+   "answer": 1,
+   "example": "がっこう",
+   "reading": "gakkou",
+   "exampleZh": "學校",
+   "note": "新：が = ga，例：がっこう（學校）",
+   "id": "が"
+  },
+  {
+   "word": "ぎ",
+   "type": "kana",
+   "prompt": "ぎ",
+   "options": [
+    "ki",
+    "gi",
+    "shi",
+    "ji"
+   ],
+   "answer": 1,
+   "example": "ぎんこう",
+   "reading": "ginkou",
+   "exampleZh": "銀行",
+   "note": "新：ぎ = gi，例：ぎんこう（銀行）",
+   "id": "ぎ"
+  },
+  {
+   "word": "ぐ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ぐ",
+   "options": [
+    "ぐ",
+    "く",
+    "ぶ",
+    "つ"
+   ],
+   "answer": 0,
+   "example": "ぐあい",
+   "reading": "guai",
+   "exampleZh": "狀況",
+   "note": "聽音選出對應的假名（gu）",
+   "id": "ぐ"
+  },
+  {
+   "word": "ご",
+   "type": "romaji",
+   "prompt": "go",
+   "options": [
+    "こ",
+    "ご",
+    "ど",
+    "ぞ"
+   ],
+   "answer": 1,
+   "example": "ごはん",
+   "reading": "gohan",
+   "exampleZh": "飯",
+   "note": "go = ご，例：ごはん（飯）",
+   "id": "ご"
+  },
+  {
+   "word": "ま",
+   "type": "kana",
+   "prompt": "ま",
+   "options": [
+    "ma",
+    "na",
+    "ha",
+    "ya"
+   ],
+   "answer": 0,
+   "example": "まど",
+   "reading": "mado",
+   "exampleZh": "窗戶",
+   "note": "複習：ま = ma，例：まど（窗戶）",
+   "id": "ま"
+  },
+  {
+   "word": "ね",
+   "type": "kana",
+   "prompt": "ね",
+   "options": [
+    "re",
+    "ne",
+    "wa",
+    "nu"
+   ],
+   "answer": 1,
+   "example": "ねこ",
+   "reading": "neko",
+   "exampleZh": "貓",
+   "note": "複習：ね = ne，例：ねこ（貓）",
+   "id": "ね"
+  },
+  {
+   "word": "け",
+   "type": "romaji",
+   "prompt": "ke",
+   "options": [
+    "け",
+    "ほ",
+    "に",
+    "は"
+   ],
+   "answer": 0,
+   "example": "けさ",
+   "reading": "kesa",
+   "exampleZh": "今天早上",
+   "note": "ke = け，例：けさ（今天早上）",
+   "id": "け"
+  },
+  {
+   "word": "ら",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ら",
+   "options": [
+    "ら",
+    "ち",
+    "ろ",
+    "ま"
+   ],
+   "answer": 0,
+   "example": "らいねん",
+   "reading": "rainen",
+   "exampleZh": "明年",
+   "note": "聽音選出對應的假名（ra）",
+   "id": "ら"
+  },
+  {
+   "word": "わ",
+   "type": "kana",
+   "prompt": "わ",
+   "options": [
+    "re",
+    "ne",
+    "wa",
+    "ru"
+   ],
+   "answer": 2,
+   "example": "わたし",
+   "reading": "watashi",
+   "exampleZh": "我",
+   "note": "複習：わ = wa，例：わたし（我）",
+   "id": "わ"
+  },
+  {
+   "word": "や",
+   "type": "listen",
+   "prompt": "",
+   "audio": "や",
+   "options": [
+    "や",
+    "ゆ",
+    "よ",
+    "か"
+   ],
+   "answer": 0,
+   "example": "やま",
+   "reading": "yama",
+   "exampleZh": "山",
+   "note": "聽音選出對應的假名（ya）",
+   "id": "や"
+  }
+ ]
+}
