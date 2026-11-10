@@ -1,0 +1,176 @@
+{
+ "date": "2026-11-11",
+ "questions": [
+  {
+   "word": "げ",
+   "type": "kana",
+   "prompt": "げ",
+   "options": [
+    "ke",
+    "ge",
+    "de",
+    "ga"
+   ],
+   "answer": 1,
+   "example": "げた",
+   "reading": "geta",
+   "exampleZh": "木屐",
+   "note": "濁音：け加兩點變成 ge。",
+   "id": "げ"
+  },
+  {
+   "word": "ご",
+   "type": "kana",
+   "prompt": "ご",
+   "options": [
+    "ko",
+    "go",
+    "do",
+    "zo"
+   ],
+   "answer": 1,
+   "example": "ごはん",
+   "reading": "gohan",
+   "exampleZh": "飯",
+   "note": "こ加兩點變成 go。",
+   "id": "ご"
+  },
+  {
+   "word": "ぐ",
+   "type": "romaji",
+   "prompt": "gu",
+   "options": [
+    "く",
+    "ぐ",
+    "ぶ",
+    "づ"
+   ],
+   "answer": 1,
+   "example": "かぐ",
+   "reading": "kagu",
+   "exampleZh": "家具",
+   "note": "く加兩點是 gu。",
+   "id": "ぐ"
+  },
+  {
+   "word": "が",
+   "type": "listen",
+   "prompt": "",
+   "options": [
+    "か",
+    "が",
+    "た",
+    "だ"
+   ],
+   "answer": 1,
+   "example": "がっこう",
+   "reading": "gakkou",
+   "exampleZh": "學校",
+   "note": "聽音選字：が（ga）。",
+   "audio": "が",
+   "id": "が"
+  },
+  {
+   "word": "ぎ",
+   "type": "listen",
+   "prompt": "",
+   "options": [
+    "き",
+    "ぎ",
+    "し",
+    "じ"
+   ],
+   "answer": 1,
+   "example": "ぎんこう",
+   "reading": "ginkou",
+   "exampleZh": "銀行",
+   "note": "聽音選字：ぎ（gi）。",
+   "audio": "ぎ",
+   "id": "ぎ"
+  },
+  {
+   "word": "は",
+   "type": "kana",
+   "prompt": "は",
+   "options": [
+    "ha",
+    "ma",
+    "na",
+    "ta"
+   ],
+   "answer": 0,
+   "example": "はな",
+   "reading": "hana",
+   "exampleZh": "花",
+   "note": "注意：は當助詞時念 wa。",
+   "id": "は"
+  },
+  {
+   "word": "ぬ",
+   "type": "romaji",
+   "prompt": "nu",
+   "options": [
+    "め",
+    "ぬ",
+    "ね",
+    "の"
+   ],
+   "answer": 1,
+   "example": "いぬ",
+   "reading": "inu",
+   "exampleZh": "狗",
+   "note": "ぬ的尾巴有個小圈。",
+   "id": "ぬ"
+  },
+  {
+   "word": "ゆ",
+   "type": "kana",
+   "prompt": "ゆ",
+   "options": [
+    "ya",
+    "yu",
+    "yo",
+    "mu"
+   ],
+   "answer": 1,
+   "example": "ゆき",
+   "reading": "yuki",
+   "exampleZh": "雪",
+   "id": "ゆ"
+  },
+  {
+   "word": "れ",
+   "type": "romaji",
+   "prompt": "re",
+   "options": [
+    "わ",
+    "ね",
+    "れ",
+    "ぬ"
+   ],
+   "answer": 2,
+   "example": "れい",
+   "reading": "rei",
+   "exampleZh": "零",
+   "id": "れ"
+  },
+  {
+   "word": "さ",
+   "type": "listen",
+   "prompt": "",
+   "options": [
+    "さ",
+    "ち",
+    "き",
+    "ら"
+   ],
+   "answer": 0,
+   "example": "さかな",
+   "reading": "sakana",
+   "exampleZh": "魚",
+   "note": "聽音選字：さ（sa）。",
+   "audio": "さ",
+   "id": "さ"
+  }
+ ]
+}
