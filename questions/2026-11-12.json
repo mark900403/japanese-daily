@@ -1,0 +1,177 @@
+{
+ "date": "2026-11-12",
+ "questions": [
+  {
+   "word": "ざ",
+   "type": "kana",
+   "prompt": "ざ",
+   "options": [
+    "sa",
+    "za",
+    "ta",
+    "da"
+   ],
+   "answer": 1,
+   "example": "ざっし",
+   "reading": "zasshi",
+   "exampleZh": "雜誌",
+   "note": "濁音：さ加兩點變成 za。",
+   "id": "ざ"
+  },
+  {
+   "word": "じ",
+   "type": "kana",
+   "prompt": "じ",
+   "options": [
+    "ji",
+    "shi",
+    "chi",
+    "gi"
+   ],
+   "answer": 0,
+   "example": "じてんしゃ",
+   "reading": "jitensha",
+   "exampleZh": "腳踏車",
+   "note": "し加兩點變成 ji。",
+   "id": "じ"
+  },
+  {
+   "word": "ず",
+   "type": "romaji",
+   "prompt": "zu",
+   "options": [
+    "す",
+    "ず",
+    "つ",
+    "ぐ"
+   ],
+   "answer": 1,
+   "example": "ずっと",
+   "reading": "zutto",
+   "exampleZh": "一直",
+   "note": "す加兩點變成 zu。",
+   "id": "ず"
+  },
+  {
+   "word": "ぜ",
+   "type": "listen",
+   "prompt": "",
+   "audio": "ぜ",
+   "options": [
+    "せ",
+    "ぜ",
+    "げ",
+    "て"
+   ],
+   "answer": 1,
+   "example": "かぜ",
+   "reading": "kaze",
+   "exampleZh": "風；感冒",
+   "note": "せ加兩點變成 ze。",
+   "id": "ぜ"
+  },
+  {
+   "word": "ぎ",
+   "type": "kana",
+   "prompt": "ぎ",
+   "options": [
+    "ki",
+    "gi",
+    "ji",
+    "gu"
+   ],
+   "answer": 1,
+   "example": "ぎんこう",
+   "reading": "ginkou",
+   "exampleZh": "銀行",
+   "note": "き加兩點變成 gi。",
+   "id": "ぎ"
+  },
+  {
+   "word": "ぐ",
+   "type": "romaji",
+   "prompt": "gu",
+   "options": [
+    "く",
+    "ぐ",
+    "ず",
+    "ご"
+   ],
+   "answer": 1,
+   "example": "ぐあい",
+   "reading": "guai",
+   "exampleZh": "狀況",
+   "note": "く加兩點變成 gu。",
+   "id": "ぐ"
+  },
+  {
+   "word": "ま",
+   "type": "kana",
+   "prompt": "ま",
+   "options": [
+    "ma",
+    "mu",
+    "me",
+    "na"
+   ],
+   "answer": 0,
+   "example": "まど",
+   "reading": "mado",
+   "exampleZh": "窗戶",
+   "note": "ま 的下方是圈圈，和 ほ 不同。",
+   "id": "ま"
+  },
+  {
+   "word": "ろ",
+   "type": "romaji",
+   "prompt": "ro",
+   "options": [
+    "る",
+    "ろ",
+    "ら",
+    "れ"
+   ],
+   "answer": 1,
+   "example": "ろく",
+   "reading": "roku",
+   "exampleZh": "六",
+   "note": "ろ 沒有下方小圈，る 有。",
+   "id": "ろ"
+  },
+  {
+   "word": "を",
+   "type": "listen",
+   "prompt": "",
+   "audio": "を",
+   "options": [
+    "お",
+    "を",
+    "あ",
+    "わ"
+   ],
+   "answer": 1,
+   "example": "みずをのむ",
+   "reading": "mizu o nomu",
+   "exampleZh": "喝水",
+   "note": "を 只當助詞用，發音同 o。",
+   "id": "を"
+  },
+  {
+   "word": "た",
+   "type": "kana",
+   "prompt": "た",
+   "options": [
+    "ta",
+    "na",
+    "ka",
+    "sa"
+   ],
+   "answer": 0,
+   "example": "たべる",
+   "reading": "taberu",
+   "exampleZh": "吃",
+   "note": "た 像「ト」加一個「こ」。",
+   "id": "た"
+  }
+ ]
+}
