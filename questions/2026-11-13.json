@@ -1,0 +1,171 @@
+{
+ "date": "2026-11-13",
+ "questions": [
+  {
+   "word": "ぞ",
+   "type": "kana",
+   "prompt": "ぞ",
+   "options": [
+    "so",
+    "zo",
+    "to",
+    "do"
+   ],
+   "answer": 1,
+   "example": "かぞく",
+   "reading": "kazoku",
+   "exampleZh": "家人",
+   "note": "濁音：そ加兩點變成 zo。",
+   "id": "ぞ"
+  },
+  {
+   "word": "ぞ",
+   "type": "romaji",
+   "prompt": "zo",
+   "options": [
+    "そ",
+    "ぞ",
+    "ど",
+    "ぜ"
+   ],
+   "answer": 1,
+   "example": "ぞう",
+   "reading": "zou",
+   "exampleZh": "大象",
+   "id": "ぞ"
+  },
+  {
+   "word": "ぞ",
+   "type": "listen",
+   "prompt": "",
+   "options": [
+    "そ",
+    "ぞ",
+    "ぜ",
+    "ざ"
+   ],
+   "answer": 1,
+   "example": "ぞう",
+   "reading": "zou",
+   "exampleZh": "大象",
+   "audio": "ぞ",
+   "id": "ぞ"
+  },
+  {
+   "word": "ぜ",
+   "type": "kana",
+   "prompt": "ぜ",
+   "options": [
+    "ze",
+    "se",
+    "de",
+    "ge"
+   ],
+   "answer": 0,
+   "example": "ぜんぶ",
+   "reading": "zenbu",
+   "exampleZh": "全部",
+   "note": "濁音：せ加兩點變成 ze。",
+   "id": "ぜ"
+  },
+  {
+   "word": "ざ",
+   "type": "romaji",
+   "prompt": "za",
+   "options": [
+    "さ",
+    "ざ",
+    "た",
+    "だ"
+   ],
+   "answer": 1,
+   "example": "ざっし",
+   "reading": "zasshi",
+   "exampleZh": "雜誌",
+   "id": "ざ"
+  },
+  {
+   "word": "じ",
+   "type": "kana",
+   "prompt": "じ",
+   "options": [
+    "shi",
+    "ji",
+    "chi",
+    "gi"
+   ],
+   "answer": 1,
+   "example": "じかん",
+   "reading": "jikan",
+   "exampleZh": "時間",
+   "note": "濁音：し加兩點，唸 ji。",
+   "id": "じ"
+  },
+  {
+   "word": "ず",
+   "type": "listen",
+   "prompt": "",
+   "options": [
+    "す",
+    "ず",
+    "つ",
+    "づ"
+   ],
+   "answer": 1,
+   "example": "みず",
+   "reading": "mizu",
+   "exampleZh": "水",
+   "audio": "ず",
+   "id": "ず"
+  },
+  {
+   "word": "ご",
+   "type": "romaji",
+   "prompt": "go",
+   "options": [
+    "こ",
+    "ご",
+    "ぞ",
+    "ど"
+   ],
+   "answer": 1,
+   "example": "ごはん",
+   "reading": "gohan",
+   "exampleZh": "飯",
+   "id": "ご"
+  },
+  {
+   "word": "な",
+   "type": "kana",
+   "prompt": "な",
+   "options": [
+    "na",
+    "ma",
+    "ha",
+    "ta"
+   ],
+   "answer": 0,
+   "example": "なまえ",
+   "reading": "namae",
+   "exampleZh": "名字",
+   "id": "な"
+  },
+  {
+   "word": "ぎ",
+   "type": "listen",
+   "prompt": "",
+   "options": [
+    "き",
+    "ぎ",
+    "じ",
+    "ぢ"
+   ],
+   "answer": 1,
+   "example": "ぎんこう",
+   "reading": "ginkou",
+   "exampleZh": "銀行",
+   "audio": "ぎ",
+   "id": "ぎ"
+  }
+ ]
+}
