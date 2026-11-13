@@ -1,0 +1,170 @@
+{
+ "date": "2026-11-14",
+ "questions": [
+  {
+   "word": "ざ",
+   "type": "kana",
+   "prompt": "ざ",
+   "options": [
+    "za",
+    "sa",
+    "da",
+    "ta"
+   ],
+   "answer": 0,
+   "example": "ざっし",
+   "reading": "zasshi",
+   "exampleZh": "雜誌",
+   "note": "濁音：さ加兩點變成 za。",
+   "id": "ざ"
+  },
+  {
+   "word": "ぞ",
+   "type": "listen",
+   "prompt": "",
+   "options": [
+    "そ",
+    "ぞ",
+    "ぜ",
+    "ざ"
+   ],
+   "answer": 1,
+   "example": "ぞう",
+   "reading": "zou",
+   "exampleZh": "大象",
+   "audio": "ぞ",
+   "id": "ぞ"
+  },
+  {
+   "word": "ぜ",
+   "type": "romaji",
+   "prompt": "ze",
+   "options": [
+    "せ",
+    "ぜ",
+    "て",
+    "で"
+   ],
+   "answer": 1,
+   "example": "ぜんぶ",
+   "reading": "zenbu",
+   "exampleZh": "全部",
+   "id": "ぜ"
+  },
+  {
+   "word": "じ",
+   "type": "listen",
+   "prompt": "",
+   "options": [
+    "し",
+    "じ",
+    "ち",
+    "ぢ"
+   ],
+   "answer": 1,
+   "example": "じかん",
+   "reading": "jikan",
+   "exampleZh": "時間",
+   "audio": "じ",
+   "id": "じ"
+  },
+  {
+   "word": "ず",
+   "type": "kana",
+   "prompt": "ず",
+   "options": [
+    "su",
+    "zu",
+    "tsu",
+    "mu"
+   ],
+   "answer": 1,
+   "example": "みず",
+   "reading": "mizu",
+   "exampleZh": "水",
+   "note": "濁音：す加兩點變成 zu。",
+   "id": "ず"
+  },
+  {
+   "word": "が",
+   "type": "kana",
+   "prompt": "が",
+   "options": [
+    "ka",
+    "ga",
+    "ta",
+    "da"
+   ],
+   "answer": 1,
+   "example": "がっこう",
+   "reading": "gakkou",
+   "exampleZh": "學校",
+   "id": "が"
+  },
+  {
+   "word": "ぐ",
+   "type": "romaji",
+   "prompt": "gu",
+   "options": [
+    "く",
+    "ぐ",
+    "ず",
+    "ぬ"
+   ],
+   "answer": 1,
+   "example": "ぐあい",
+   "reading": "guai",
+   "exampleZh": "狀況",
+   "id": "ぐ"
+  },
+  {
+   "word": "げ",
+   "type": "listen",
+   "prompt": "",
+   "options": [
+    "け",
+    "げ",
+    "ぜ",
+    "れ"
+   ],
+   "answer": 1,
+   "example": "げんき",
+   "reading": "genki",
+   "exampleZh": "有精神",
+   "audio": "げ",
+   "id": "げ"
+  },
+  {
+   "word": "ま",
+   "type": "kana",
+   "prompt": "ま",
+   "options": [
+    "ma",
+    "na",
+    "ha",
+    "mu"
+   ],
+   "answer": 0,
+   "example": "まど",
+   "reading": "mado",
+   "exampleZh": "窗戶",
+   "id": "ま"
+  },
+  {
+   "word": "ら",
+   "type": "romaji",
+   "prompt": "ra",
+   "options": [
+    "ら",
+    "わ",
+    "な",
+    "ま"
+   ],
+   "answer": 0,
+   "example": "らいげつ",
+   "reading": "raigetsu",
+   "exampleZh": "下個月",
+   "id": "ら"
+  }
+ ]
+}
